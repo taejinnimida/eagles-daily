@@ -1,0 +1,76 @@
+name: 이글스데일리 자동수집·배포
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+  push:
+    branches: ["main"]
+    paths:
+      - "index.html"
+      - "scripts/**"
+      - "requirements.txt"
+      - ".github/workflows/deploy.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: eagles-daily
+  cancel-in-progress: false
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 저장소 불러오기
+        uses: actions/checkout@v7
+
+      - name: 파이썬 설치
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: 필요한 프로그램 설치
+        run: python -m pip install --quiet -r requirements.txt
+
+      - name: KBO 기록과 뉴스 수집
+        run: python scripts/collect.py
+
+      - name: 수집 결과 저장
+        run: |
+          git config user.name "eagles-daily-bot"
+          git config user.email "eagles-daily-bot@users.noreply.github.com"
+          git add data/eagles.json
+          if git diff --cached --quiet; then
+            echo "변경사항이 없습니다."
+          else
+            git commit -m "자동수집: $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: 홈페이지 파일 준비
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/
+          cp .nojekyll _site/
+          cp data/eagles.json _site/data/
+
+      - name: GitHub Pages 설정
+        uses: actions/configure-pages@v6
+
+      - name: 홈페이지 파일 업로드
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - name: 홈페이지 배포
+        id: deployment
+        uses: actions/deploy-pages@v5
