@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05 18:54 KST",
+  "updated_at": "2026-07-06 23:17 KST",
   "rank_date": "2026-07-05",
   "source_status": {
     "KBO 순위": "2026-07-05 · 10개 구단",
@@ -74,15 +74,15 @@
     }
   ],
   "next_game": {
-    "date": "2026-07-05",
-    "time": "18:00",
-    "opponent": "LG 트윈스",
+    "date": "2026-07-07",
+    "time": "18:30",
+    "opponent": "NC 다이노스",
     "hanwha_score": "",
     "opponent_score": "",
     "result": "",
     "completed": false,
-    "venue": "잠실",
-    "home_away": "원정",
+    "venue": "대전 한화생명 볼파크",
+    "home_away": "홈",
     "game_url": ""
   },
   "standings": [
@@ -103,27 +103,27 @@
       "rank": "2",
       "team": "삼성 라이온즈",
       "short_team": "삼성",
-      "games": "81",
-      "wins": "48",
+      "games": "82",
+      "wins": "49",
       "losses": "31",
       "draws": "2",
-      "pct": "0.608",
-      "gb": "1.5",
-      "last10": "8승0무2패",
-      "streak": "3승"
+      "pct": "0.613",
+      "gb": "1",
+      "last10": "9승0무1패",
+      "streak": "4승"
     },
     {
       "rank": "3",
       "team": "KT 위즈",
       "short_team": "KT",
-      "games": "80",
-      "wins": "44",
+      "games": "81",
+      "wins": "45",
       "losses": "35",
       "draws": "1",
-      "pct": "0.557",
-      "gb": "5.5",
+      "pct": "0.563",
+      "gb": "5",
       "last10": "3승0무7패",
-      "streak": "3패"
+      "streak": "1승"
     },
     {
       "rank": "4",
@@ -181,27 +181,27 @@
       "rank": "8",
       "team": "롯데 자이언츠",
       "short_team": "롯데",
-      "games": "81",
+      "games": "82",
       "wins": "36",
-      "losses": "43",
+      "losses": "44",
       "draws": "2",
-      "pct": "0.456",
-      "gb": "13.5",
-      "last10": "6승0무4패",
-      "streak": "2승"
+      "pct": "0.450",
+      "gb": "14",
+      "last10": "5승0무5패",
+      "streak": "1패"
     },
     {
       "rank": "9",
       "team": "SSG 랜더스",
       "short_team": "SSG",
-      "games": "82",
+      "games": "83",
       "wins": "30",
-      "losses": "49",
+      "losses": "50",
       "draws": "3",
-      "pct": "0.380",
-      "gb": "19.5",
-      "last10": "1승1무8패",
-      "streak": "8패"
+      "pct": "0.375",
+      "gb": "20",
+      "last10": "0승1무9패",
+      "streak": "9패"
     },
     {
       "rank": "10",
@@ -231,7 +231,7 @@
     "streak": "1패"
   },
   "team_hitting": {
-    "rank": "3",
+    "rank": "4",
     "team": "한화 이글스",
     "avg": "0.273",
     "games": "80",
@@ -283,7 +283,7 @@
       "rbi": "85"
     },
     {
-      "rank": "11",
+      "rank": "12",
       "name": "페라자",
       "team": "한화 이글스",
       "avg": "0.312",
@@ -299,7 +299,7 @@
       "rbi": "53"
     },
     {
-      "rank": "20",
+      "rank": "22",
       "name": "문현빈",
       "team": "한화 이글스",
       "avg": "0.291",
@@ -361,16 +361,10 @@
   ],
   "news": [
     {
-      "title": "[불꽃이글스]\"스윕승에 채은성 복귀까지\"..한화 상위권 경쟁 재시동",
-      "source": "티제이비",
-      "published": "Mon, 29 Jun 2026 10:01:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNUHF0bHYta05sdmVXZnF3X3dfUlJ2U1JZbW03YnRRSW0tTXV3NWxWU240UEluSGtfS3lKWjRZMDQxMVlwSURhWVpldzZ4NVVkTVJVWWdHdmM4OU5rSEVSdnBB?oc=5"
-    },
-    {
-      "title": "오늘도 터진 강백호-노시환 쌍포…한화, 1위 LG 완파",
-      "source": "연합뉴스",
-      "published": "Fri, 03 Jul 2026 12:35:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91bTRobkhzak1ESExyUlZhY01meGZsZVAxXzlHcjNNOThMNUJHZlFhTHZJdnFpV0FfdHJOS2R2cm9PMU04QThvN0NKNmxCYWJDUzRVbkdFOGNVTFdydTFQTNIBYEFVX3lxTE91bTRobkhzak1ESExyUlZhY01meGZsZVAxXzlHcjNNOThMNUJHZlFhTHZJdnFpV0FfdHJOS2R2cm9PMU04QThvN0NKNmxCYWJDUzRVbkdFOGNVTFdydTFQTA?oc=5"
+      "title": "한화 또 육성선수 신화 쓸까…타율 0.382 폭격, 발 빠른 외야수 전격 콜업 \"한 번 보여드리겠다\" [오!쎈 잠실]",
+      "source": "v.daum.net",
+      "published": "Sun, 05 Jul 2026 10:51:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PWms2eXB2NERxdjRmNlBjNnEwMUtYVEVXNFVSUV9MUmN1a2RybEN6Wklvd2FfTzEycjg2czdEM3IxVm1xanc?oc=5"
     },
     {
       "title": "[포토] 화이트 반기는 한화 이글스 동료들",
@@ -379,40 +373,28 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHdWVmRZd25TWllpV0RVS2RsQkFBUnRHc1NQMGxCNGo1UFNNVnp1UlpwWUdhNklDTmFSakhWTnRwX0J6Yk42UVgxTmlXNUZOdDBQMmRucVdqdUZnREdiVXVZNkNjYVFyTmt4NXNnWkFMeko5Z0FZNE9MM1MtYWQ5N3gwOC1ZVFBK?oc=5"
     },
     {
-      "title": "한화이글스, 강백호·노시환 홈런포 앞세워 LG에 8-1 압승",
-      "source": "대전일보",
-      "published": "Fri, 03 Jul 2026 13:47:28 GMT",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80djFTVTRRUlV5LUtWTmN2MnZUR20ycTJ1YmVWMFUzakdoTGhyZkd4SmozcEc4MzV2WUVxOTJLbm1wZXVQLU9zTTR6aFlNOXowQW5DRHV3MmF1TkdJQ3NtVnpNWE1oeHhWbjJhWUFSbHlSbVXSAXNBVV95cUxPNHYxU1U0UVJVeS1LVk5jdjJ2VEdtMnEydWJlVjBVM2pHaExocmZHeEpqM3BHODM1dllFcTkyS25tcGV1UC1Pc000emhZTTl6MEFuQ0R1dzJhdU5HSUNzbVZ6TVhNaHh4Vm4yYVlBUmx5Um1V?oc=5"
-    },
-    {
       "title": "100억이 아깝지 않았다! 강백호 타점 1위보다 한화 이글스 말한 이유",
       "source": "네이버 프리미엄콘텐츠",
       "published": "Sat, 04 Jul 2026 02:29:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTZnMXk0NFVZc05sQ0RUcklPYWE2NUYzZFN1VTJ0cGpjLTVkOW5uWU96b2xCcFdieEE5UWhCU1QtZUtBYXhsTmlud0JSbzFwVXlxaTBNcDhsZlA4MlNvTGZ4SllDRG9JNVhZbFBtOVE0MlhuNGYwVFhnczVHMHZFdUI1TUJrbVZ3TlhIbEh0RQ?oc=5"
     },
     {
-      "title": "'강백호 맹타' 한화, 5위 도약…LG, 2위 삼성에 1.5경기 차 쫓겨(종합)",
-      "source": "v.daum.net",
-      "published": "Fri, 03 Jul 2026 13:25:02 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uTDhMbmNHN3BkYVpFd1V1TmdYUHFaQUg3WklDOWIyaExTU0VjY0taZXczdkJSMUpLRU9oZHpUT2lfUWFEUGlEM01najRQY2c?oc=5"
+      "title": "한미 통산 2천500K 앞둔 류현진, 1군 말소로 전반기 마감",
+      "source": "연합뉴스",
+      "published": "Mon, 06 Jul 2026 08:04:13 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11clFUTFc1bTRCNlpUWWEwNjgyX3Y4NzVtWThkTF8zV0Q5dzVfdnpJTVNpWmVuSExFanpxak1OU0VNUDc2cHVqRldIaHZHSk8xeFJ2cFVHMmZieXJzNXdaM9IBYEFVX3lxTE11clFUTFc1bTRCNlpUWWEwNjgyX3Y4NzVtWThkTF8zV0Q5dzVfdnpJTVNpWmVuSExFanpxak1OU0VNUDc2cHVqRldIaHZHSk8xeFJ2cFVHMmZieXJzNXdaMw?oc=5"
     },
     {
-      "title": "강백호 또 멀티 홈런… 한화, 선두 LG 완파",
-      "source": "미주중앙일보",
-      "published": "Fri, 03 Jul 2026 13:13:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4VkV4bm5vT0dmWDBYaEswemQzZnZYQ0NGbDVnQURfZHdtODRsbjU2Zno4OFBTcGd2UHlXMFlxWWlROTIwYk5NcHBYNHp3elJ0dE8xVFRXRC1zWndtQ1FZT1Z3?oc=5"
-    },
-    {
-      "title": "\"김도영-오스틴이 훨씬 잘치죠\" 겸손한 강백호, '역대급 페이스인데' 30홈런 목표로 세운 이유 - 머니투데이",
+      "title": "'역대 최소 43G 100만 돌파' LG, 염갈량도 만족한 '지키는 야구'... \"많은 팬들 덕분\" 감사 전했다 [잠실 현장] - 머니투데이",
       "source": "머니투데이",
-      "published": "Sat, 04 Jul 2026 04:01:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qaEIwZDhvaUxYMWhvdWFxdDM2OUV2ZUNWZzJfd0Ryb0lDcDFCb3I4Zk9kaFd0ckJQMDlVN2Y0QXlDd29GMEhBaEVBRU40eDVscUJKT3BTQ3V5eGw0bGRqUHpxM2hmb25GWmhFNk8ya9IBb0FVX3lxTE1qaEIwZDhvaUxYMWhvdWFxdDM2OUV2ZUNWZzJfd0Ryb0lDcDFCb3I4Zk9kaFd0ckJQMDlVN2Y0QXlDd29GMEhBaEVBRU40eDVscUJKT3BTQ3V5eGw0bGRqUHpxM2hmb25GWmhFNk8yaw?oc=5"
+      "published": "Sat, 04 Jul 2026 13:31:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9meW9wM0dPRkMwMmdsQV90LUdsZUNvX2VIZHRZam9kWVJvWERQWkQyQUp4Yk9GQmFDVGRDbnRjVS15ZHFhc1BWZndNV2puWWJUNU5qYmRLc1NpNUdHQi1aNHJRNW1qUTRLdFBqSU1LQdIBb0FVX3lxTE9meW9wM0dPRkMwMmdsQV90LUdsZUNvX2VIZHRZam9kWVJvWERQWkQyQUp4Yk9GQmFDVGRDbnRjVS15ZHFhc1BWZndNV2puWWJUNU5qYmRLc1NpNUdHQi1aNHJRNW1qUTRLdFBqSU1LQQ?oc=5"
     },
     {
-      "title": "'7경기 6홈런' 한화 강백호 \"타율 3할·30홈런·100타점 해보고 싶다\"",
+      "title": "한화 강백호·노시환 홈런쇼…김경문 감독 \"득점력 올라가고 승리 가까워져\"",
       "source": "뉴시스",
-      "published": "Fri, 03 Jul 2026 13:38:27 GMT",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QLWpYSEZ6RGVkVHFWTW1yM3lKaUNrWE1Ba3Y5NmtZelJVUjJ2T2RWT3lSZS05bldYRWRyTGswdnJmbTJRTndOZG16QjM4Z0Zxbkw3XzdscURQSURnT3g2RTI3OU1BeE9CdzlyV0o4U2NtczMtbXNfY9IBeEFVX3lxTE5QLWpYSEZ6RGVkVHFWTW1yM3lKaUNrWE1Ba3Y5NmtZelJVUjJ2T2RWT3lSZS05bldYRWRyTGswdnJmbTJRTndOZG16QjM4Z0Zxbkw3XzdscURQSURnT3g2RTI3OU1BeE9CdzlyV0o4U2NtczMtbXNfYw?oc=5"
+      "published": "Sat, 04 Jul 2026 08:01:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80NDh0b1RheTlpY1loVXdwd2FwY3RqdDJJYUQ4RnlCY1c0eS1MUjgxTk1NTzdKbm5wSjVKSnh2WWlHWGNyVi1wUWthSk1CdUtLYlVKcnJOUUxxTGZwQ0dGWm1sY1VBZkZHTktPR0thTVN2bV9XNms1WNIBeEFVX3lxTE80NDh0b1RheTlpY1loVXdwd2FwY3RqdDJJYUQ4RnlCY1c0eS1MUjgxTk1NTzdKbm5wSjVKSnh2WWlHWGNyVi1wUWthSk1CdUtLYlVKcnJOUUxxTGZwQ0dGWm1sY1VBZkZHTktPR0thTVN2bV9XNms1WA?oc=5"
     },
     {
       "title": "[포토Q] 한화 이글스 '선두 LG 트윈스, 8-1로 제압'",
@@ -421,16 +403,34 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MUE9ieG5lYmFmd1dSQ2ZTbWlHVkhxWFRqUnZqRjBkTnpqLThqWmFOZTFVTU5ZWWVGQUVJdUR6d0dLNjNzNHVjYXFPcWYzb3NJMV9xUTl3eUs3WXF2RmZfVlE1cnRWNXYtaDdEWA?oc=5"
     },
     {
-      "title": "[AI프리뷰] 3일 잠실 LG-한화전, 웰스 vs 화이트 에이스 선발 투수 맞대결",
-      "source": "뉴스핌",
-      "published": "Fri, 03 Jul 2026 04:04:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52bm5RTDdkNW03TEdoc19weGF3Q1hXR0xfOEZsS0pMaUJaRGhhNVNNaGNvZVc0TWhuekZzN0EtVDFldTVZbFBtcEQ0WmRUbExBQzZJajFuS2JwWFVO?oc=5"
+      "title": "한화-LG전, 비 그쳤는데 왜 취소 결정했나? \"정비만 2시간 이상, 안전 문제도 고려\" [오!쎈 잠실]",
+      "source": "v.daum.net",
+      "published": "Sun, 05 Jul 2026 10:15:53 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53QjBEZjJrbjQ4STJ5V293SzNfV1JGVm5QQnlBdk9lSF94enZUck5tMkY5WEtZMFM5QVZvM3hlNG9fMmN6LUU5aVhoYWZJU2c?oc=5"
     },
     {
-      "title": "100억 FA 잘 샀다는 말 이러니 나온다…\"타점왕 기대해도 된다\" 사령탑도 응원했다",
-      "source": "조선일보",
-      "published": "Thu, 02 Jul 2026 17:35:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVc4SjdBZVhUU3JlbmhaUGVwNGlhXzdCX1NmcG5wQ3F3bXoxR0xxd1JJY1dfcnNyRTZJVTY2LXF6YXpxOHhWYXVmbzhjLVBLLVBIV01IUFlfeWpndkNETUJhLWlGSzFZY3Z3d1ZOc193cm1RNmp0NWhfcUFQVUswWkRUVQ?oc=5"
+      "title": "한화-LG전, 비 그쳤는데 왜 취소 결정했나? \"정비만 2시간 이상, 안전 문제도 고려\" [오!쎈 잠실] - 머니투데이",
+      "source": "머니투데이",
+      "published": "Sun, 05 Jul 2026 10:15:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhYWRyMkU5Q1lINzF0Q2NzOU0xWnA1eS1PSTc0TmFEczdZVmJRMTRuUUtVOHVPclVtaFdqMTMwMnNjcmdTUHN1dE9qQ3pSdGJIZUZZa1Q4eEJwSkJqVUlYWFZ3dG1sYzNIRlJDQ045SdIBb0FVX3lxTFBhYWRyMkU5Q1lINzF0Q2NzOU0xWnA1eS1PSTc0TmFEczdZVmJRMTRuUUtVOHVPclVtaFdqMTMwMnNjcmdTUHN1dE9qQ3pSdGJIZUZZa1Q4eEJwSkJqVUlYWFZ3dG1sYzNIRlJDQ045SQ?oc=5"
+    },
+    {
+      "title": "'와' 한화를 6위로 밀어내다니…선동열이 극찬한 좌완, 53일 만에 승리 감격 “마음고생 있었을 텐데 좋은 투구 승리 앞장섰다” - 머니투데이",
+      "source": "머니투데이",
+      "published": "Sat, 04 Jul 2026 16:22:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HSDdHUTI1eU5pZ3hYNHRnNlJ2c09MdEdPdU1ZNmRNSm4ycW9pRHc1b3dXejV0MXdtNUlkQXVsWmFPYzBHQlpYWEpJX3RxSWpYdzM5U1NIVFZKeUVRSGhDdzQ4SEpPTXNEUmZhR3p2a9IBb0FVX3lxTE9HSDdHUTI1eU5pZ3hYNHRnNlJ2c09MdEdPdU1ZNmRNSm4ycW9pRHc1b3dXejV0MXdtNUlkQXVsWmFPYzBHQlpYWEpJX3RxSWpYdzM5U1NIVFZKeUVRSGhDdzQ4SEpPTXNEUmZhR3p2aw?oc=5"
+    },
+    {
+      "title": "2026 제3회 마이데일리배 전국유소년야구대회 '응원 메시지' - 제9편 한화 이글스 오재원",
+      "source": "v.daum.net",
+      "published": "Sun, 05 Jul 2026 16:03:02 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Zakx1NmYxd2V0SWp2NDlCbGpvSmpMQlloRjZPM0hIYXdxbTExNFVNYld1d0VKVDRVVkt6WmRNOFZmU3VuWjFFZTE5Q0MzazdNU28zdQ?oc=5"
+    },
+    {
+      "title": "[사진]허인서 '한화 원정석 뜨겁게 만드는 3점포' - 머니투데이",
+      "source": "머니투데이",
+      "published": "Sat, 04 Jul 2026 11:08:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2aV8xb3ktYWxBMXdGTWlYRDlEUEt1TEQ2UklCWTJHeVN6NEh4b0VzSUY5b05rNGh4bk04NGN5V2ZLZ2NYMWMxdTBpTUN1SGdFWDFnNjZJUGNyUDM0MndfcU1wLVRDdXNSQ2VZSWVFZ9IBb0FVX3lxTFB2aV8xb3ktYWxBMXdGTWlYRDlEUEt1TEQ2UklCWTJHeVN6NEh4b0VzSUY5b05rNGh4bk04NGN5V2ZLZ2NYMWMxdTBpTUN1SGdFWDFnNjZJUGNyUDM0MndfcU1wLVRDdXNSQ2VZSWVFZw?oc=5"
     }
   ],
   "sources": {
