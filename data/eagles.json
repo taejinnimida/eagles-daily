@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-08 18:39 KST",
-  "rank_date": "2026-07-07",
+  "updated_at": "2026-07-09 20:45 KST",
+  "rank_date": "2026-07-08",
   "source_status": {
-    "KBO 순위": "2026-07-07 · 10개 구단",
+    "KBO 순위": "2026-07-08 · 10개 구단",
     "팀 타격": "정상",
     "팀 투수": "정상",
     "경기 일정": "최근 5경기",
@@ -86,7 +86,7 @@
     }
   ],
   "next_game": {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "time": "18:30",
     "opponent": "NC 다이노스",
     "hanwha_score": "",
@@ -100,68 +100,68 @@
   "standings": [
     {
       "rank": "1",
-      "team": "삼성 라이온즈",
-      "short_team": "삼성",
-      "games": "83",
-      "wins": "50",
-      "losses": "31",
-      "draws": "2",
-      "pct": "0.617",
+      "team": "LG 트윈스",
+      "short_team": "LG",
+      "games": "84",
+      "wins": "52",
+      "losses": "32",
+      "draws": "0",
+      "pct": "0.619",
       "gb": "0",
-      "last10": "9승0무1패",
-      "streak": "5승"
+      "last10": "5승0무5패",
+      "streak": "1승"
     },
     {
       "rank": "2",
-      "team": "LG 트윈스",
-      "short_team": "LG",
-      "games": "83",
-      "wins": "51",
+      "team": "삼성 라이온즈",
+      "short_team": "삼성",
+      "games": "84",
+      "wins": "50",
       "losses": "32",
-      "draws": "0",
-      "pct": "0.614",
-      "gb": "0",
-      "last10": "4승0무6패",
+      "draws": "2",
+      "pct": "0.610",
+      "gb": "1",
+      "last10": "8승0무2패",
       "streak": "1패"
     },
     {
       "rank": "3",
       "team": "KT 위즈",
       "short_team": "KT",
-      "games": "82",
-      "wins": "46",
+      "games": "83",
+      "wins": "47",
       "losses": "35",
       "draws": "1",
-      "pct": "0.568",
+      "pct": "0.573",
       "gb": "4",
       "last10": "4승0무6패",
-      "streak": "2승"
+      "streak": "3승"
     },
     {
       "rank": "4",
       "team": "KIA 타이거즈",
       "short_team": "KIA",
-      "games": "84",
+      "games": "85",
       "wins": "44",
-      "losses": "38",
+      "losses": "39",
       "draws": "2",
-      "pct": "0.537",
-      "gb": "6.5",
-      "last10": "4승1무5패",
-      "streak": "3패"
+      "pct": "0.530",
+      "gb": "7.5",
+      "last10": "3승1무6패",
+      "streak": "4패"
     },
     {
       "rank": "5",
       "team": "두산 베어스",
       "short_team": "두산",
-      "games": "85",
-      "wins": "42",
+      "games": "86",
+      "wins": "43",
       "losses": "41",
       "draws": "2",
-      "pct": "0.506",
+      "pct": "0.512",
       "gb": "9",
       "last10": "6승0무4패",
-      "streak": "1패"
+      "streak": "1승"
     },
     {
       "rank": "6",
@@ -172,7 +172,7 @@
       "losses": "40",
       "draws": "2",
       "pct": "0.494",
-      "gb": "10",
+      "gb": "10.5",
       "last10": "5승0무5패",
       "streak": "2패"
     },
@@ -185,7 +185,7 @@
       "losses": "41",
       "draws": "1",
       "pct": "0.488",
-      "gb": "10.5",
+      "gb": "11",
       "last10": "7승0무3패",
       "streak": "3승"
     },
@@ -193,40 +193,40 @@
       "rank": "8",
       "team": "롯데 자이언츠",
       "short_team": "롯데",
-      "games": "83",
-      "wins": "37",
+      "games": "84",
+      "wins": "38",
       "losses": "44",
       "draws": "2",
-      "pct": "0.457",
+      "pct": "0.463",
       "gb": "13",
       "last10": "6승0무4패",
-      "streak": "1승"
+      "streak": "2승"
     },
     {
       "rank": "9",
       "team": "SSG 랜더스",
       "short_team": "SSG",
-      "games": "84",
+      "games": "85",
       "wins": "31",
-      "losses": "50",
+      "losses": "51",
       "draws": "3",
-      "pct": "0.383",
-      "gb": "19",
+      "pct": "0.378",
+      "gb": "20",
       "last10": "1승1무8패",
-      "streak": "1승"
+      "streak": "1패"
     },
     {
       "rank": "10",
       "team": "키움 히어로즈",
       "short_team": "키움",
-      "games": "86",
+      "games": "87",
       "wins": "29",
-      "losses": "56",
+      "losses": "57",
       "draws": "1",
-      "pct": "0.341",
-      "gb": "23",
+      "pct": "0.337",
+      "gb": "24",
       "last10": "3승0무7패",
-      "streak": "3패"
+      "streak": "4패"
     }
   ],
   "hanwha_standing": {
@@ -238,7 +238,7 @@
     "losses": "40",
     "draws": "2",
     "pct": "0.494",
-    "gb": "10",
+    "gb": "10.5",
     "last10": "5승0무5패",
     "streak": "2패"
   },
@@ -258,7 +258,7 @@
     "rbi": "446"
   },
   "team_pitching": {
-    "rank": "5",
+    "rank": "6",
     "team": "한화 이글스",
     "era": "4.50",
     "games": "81",
@@ -295,7 +295,7 @@
       "rbi": "85"
     },
     {
-      "rank": "12",
+      "rank": "11",
       "name": "페라자",
       "team": "한화 이글스",
       "avg": "0.311",
@@ -311,7 +311,7 @@
       "rbi": "53"
     },
     {
-      "rank": "23",
+      "rank": "24",
       "name": "문현빈",
       "team": "한화 이글스",
       "avg": "0.287",
@@ -329,7 +329,7 @@
   ],
   "pitchers": [
     {
-      "rank": "3",
+      "rank": "4",
       "name": "류현진",
       "team": "한화 이글스",
       "era": "2.67",
@@ -350,7 +350,7 @@
       "whip": "1.06"
     },
     {
-      "rank": "10",
+      "rank": "9",
       "name": "왕옌청",
       "team": "한화 이글스",
       "era": "3.59",
@@ -373,28 +373,22 @@
   ],
   "news": [
     {
+      "title": "한화이글스, 취약계층 위한 여름 김장 나눔 봉사",
+      "source": "v.daum.net",
+      "published": "Wed, 08 Jul 2026 07:39:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKaDFZakhqX3Fzb2pRR1BMR2hUVTl3Y3NRN0l3TFBZSEx4UExCY2J5V3V1WTZDWTVCUHNrTUNMS0ZGVG9JdVB0WTk2VQ?oc=5"
+    },
+    {
+      "title": "열무야, 여름을 부탁해!…한화이글스, 여름 김장 지원 봉사 실시",
+      "source": "조선일보",
+      "published": "Wed, 08 Jul 2026 04:22:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOelFfNUpwMUFWRVl6d05UdEs5X1lqcEk4R3V5aTM4c3ZVMHpOTHBxUFo1TFVuNG5meTExVGU5aHUweUExTWxHQm1PUzNyWTF1Um9HejFBNzdOYTZkNXZQTVJQOE04Q21MWmhuV0tHcmtrZC04dkxfa013a1Fyd2wzLXliRQ?oc=5"
+    },
+    {
       "title": "류현진 브랜드 'RYU ERA' 론칭, 한화 이글스 기념 굿즈 공개",
       "source": "2news.co.kr",
       "published": "Tue, 07 Jul 2026 05:54:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ITEM0TENHTVZ5ZTc3Z29QTEl2RTJWMTByajY0V19iNjVkTEd5SFowakZZOXZSbWNOUGtHY0otOFlNQWZTN0d5eHA4d1gwU3lYUWFYQk82dTJacEtiSTVBci1vVzBpcUU3?oc=5"
-    },
-    {
-      "title": "한화에 150㎞ 강속구 선발이 또 자란다고?…7R 지명 1년 차 성장세, '메이드 인 서산' 또 해낼까",
-      "source": "조선일보",
-      "published": "Mon, 06 Jul 2026 17:35:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXBfczlLWWVCamM1aFRSTzNpUDZEc2RPSm9lNUhwVnNibURJYlFUV1pGYm9HSERMb2UwdHlVQlYzN29WTnRobWg5dGduWGxvUVhFclJWN2RnVmkwVG83VlN6dXhOajE2clkxTUZkQWxySDFCdkFSUldZc0NfWnNWdHFSNA?oc=5"
-    },
-    {
-      "title": "계약 만료 앞둔 김경문·이강철·김태형 감독 전반기 기상도",
-      "source": "연합뉴스",
-      "published": "Tue, 07 Jul 2026 04:38:52 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fUkVaRmcxRVdMUnRhQXl5ZEhUdlg2ekN3SEZyZ1ZtaFgtMkFTNU5EallSOWtHZ3BvMVIzeFJjR0tFc0pGeVZwTS11bUhTWVBQZHNpUmxQR3F4clpmQlBVaNIBYEFVX3lxTE1fUkVaRmcxRVdMUnRhQXl5ZEhUdlg2ekN3SEZyZ1ZtaFgtMkFTNU5EallSOWtHZ3BvMVIzeFJjR0tFc0pGeVZwTS11bUhTWVBQZHNpUmxQR3F4clpmQlBVaA?oc=5"
-    },
-    {
-      "title": "한화이글스, 취약계층 위한 여름 김장 나눔 봉사",
-      "source": "중도일보",
-      "published": "Wed, 08 Jul 2026 07:38:34 GMT",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yeWppS2ppWWs4c0hnMGo0MzY4NXFHOVdhblJZeURIUTNGbDlYM1FTT3JsMHc2bjU5dzNVbndreEh2YklfcTk5Q2dqTWg3ajdVeWRYUlVMbElicVA5Q2ZfRURfSHZKdjhwTnVraA?oc=5"
     },
     {
       "title": "[불꽃이글스]\"강백호·노시환 홈런쇼\"..한화, 전반기 유종의 미 거둘까?",
@@ -403,22 +397,22 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ic3AyU2hYaVFwb3A4c3NleE9TOXcwOUR3NV9EcEx6ZmhzY2ljXzRLanVEd3RTcGtnVHp2VTR2U3ZGNGV5UjlDNGJlb0VvUTRFVjZJQ2M2Nm1FUkhvQzJFNU9n?oc=5"
     },
     {
+      "title": "계약 만료 앞둔 김경문·이강철·김태형 감독 전반기 기상도",
+      "source": "연합뉴스",
+      "published": "Tue, 07 Jul 2026 04:38:52 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fUkVaRmcxRVdMUnRhQXl5ZEhUdlg2ekN3SEZyZ1ZtaFgtMkFTNU5EallSOWtHZ3BvMVIzeFJjR0tFc0pGeVZwTS11bUhTWVBQZHNpUmxQR3F4clpmQlBVaNIBYEFVX3lxTE1fUkVaRmcxRVdMUnRhQXl5ZEhUdlg2ekN3SEZyZ1ZtaFgtMkFTNU5EallSOWtHZ3BvMVIzeFJjR0tFc0pGeVZwTS11bUhTWVBQZHNpUmxQR3F4clpmQlBVaA?oc=5"
+    },
+    {
       "title": "한화이글스, 취약계층 위한 여름 김장 봉사 전개",
       "source": "충남일보",
       "published": "Mon, 06 Jul 2026 07:00:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JREZlX3hTcHI2MmFiWGR3MzhwOHMyS2FxeXVOVmp0elNBb3pEbFdUQ1FJRUpvQmZRYnR3NjZ0d0hSM2dUa2hGVXh1bWdxaGwtZmlhaldMQVJtSjJyUFFhb2ZEX29OZE96Sk5LZ3piVTVNTkE?oc=5"
     },
     {
-      "title": "열무야, 여름을 부탁해!…한화이글스, 여름 김장 지원 봉사 실시",
-      "source": "sportschosun.com",
-      "published": "Wed, 08 Jul 2026 03:11:57 GMT",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zaWVocWlBd3BZbUlHaXpQbElkdmUtSkdXLWlMd09ldWVXY0txUFllU1lqcEZVenI4YkNEOUFvcmEycThjcXpFSmFiUFIzbFBtS2dMRkl0S3RKVExEYWFqYmkwcjAxMzg0RjZ3Tk4zaFJsSm5uSU1vTmtTbThfQQ?oc=5"
-    },
-    {
-      "title": "한화, 전반기 마지막 NC와 운명의 3연전 '5위 탈환 노린다'",
-      "source": "v.daum.net",
-      "published": "Mon, 06 Jul 2026 07:56:22 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weGtVVlpWa1M3T3BHRGRtak1DZENYeTlWQzk2SlFzeG9WWmY4UjQ1OFQ1dWlqOWdRMHZsNVJhY1VNTl9nVmk4S0pjdUhlVWtsZ0NlMw?oc=5"
+      "title": "'열무야, 여름을 부탁해!' 한화 이글스, 대전 취약계층 위해 '여름 열무김치' 담갔다",
+      "source": "더게이트",
+      "published": "Wed, 08 Jul 2026 05:39:20 GMT",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sbVhwNU02YWhaMDNScnN1MzJ2eEx5VnRPZ1pEQzZkU1hHeS1abXF3Tmpmc19PREhEV0dHRk9JV0ZtaHd6cGdyX1IyVk4yUXNjUk5ydFdGUmdkQl9rcC1QZW91Y3ltenpoWjMtS9IBbEFVX3lxTE5sbVhwNU02YWhaMDNScnN1MzJ2eEx5VnRPZ1pEQzZkU1hHeS1abXF3Tmpmc19PREhEV0dHRk9JV0ZtaHd6cGdyX1IyVk4yUXNjUk5ydFdGUmdkQl9rcC1QZW91Y3ltenpoWjMtSw?oc=5"
     },
     {
       "title": "한화이글스, 대전 중구 취약계층에 여름 김장 김치 전달",
@@ -427,22 +421,28 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SU0libzRoQ2tWY2R0Yl9JUGhMczhpVm5iY2ZwWWVvS0h6NUtiUXU2T0tmc0Q0amV4b1hub2dHbno3dXJXekJOdGFMQ0xUYlJUNmRIYVRtYmxFNDdKLTRvYXE5Mmt0X3ZPQkc1N2RLTdIBc0FVX3lxTE8tdmxvaTBmdWt3dzR2U19lRWtVOFo2czY5UGlneDBHZ0JxZUNnZlI1Q19aRHp1NktYV3pfdzRmUGJqUmp6T08zOUJ2RkpnX1R6R0ZaWUlDamlmRkhFTllzZ3p0anpGdHc4VTVrWkZfUU05a1E?oc=5"
     },
     {
-      "title": "'열무야, 여름을 부탁해!' 한화 이글스, 대전 취약계층 위해 '여름 열무김치' 담갔다",
-      "source": "더게이트",
-      "published": "Wed, 08 Jul 2026 04:03:14 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9acmFzQ2VQNUJ0eURoVXMxM2pwVUlPN21sdjBmQTFPS2ZWQ2tSR1E4UW5LeUlNWE9XOS1GN3g1NHl3OUFnd1dDWk9qZGNqX2RZY3ViRkVCbVpTZ3NGbGE2bjRyblFqbDRp0gFsQVVfeXFMTmxtWHA1TTZhaFowM1Jyc3UzMnZ4THlWdE9nWkRDNmRTWEd5LVptcXdOamZzX09ESERXR0dGT0lXRm1od3pwZ3JfUjJWTjJRc2NSTnJ0V0ZSZ2RCX2twLVBlb3VjeW16emhaMy1L?oc=5"
-    },
-    {
-      "title": "한미 통산 2천500K 앞둔 류현진, 1군 말소로 전반기 마감",
-      "source": "연합뉴스",
-      "published": "Mon, 06 Jul 2026 08:04:13 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11clFUTFc1bTRCNlpUWWEwNjgyX3Y4NzVtWThkTF8zV0Q5dzVfdnpJTVNpWmVuSExFanpxak1OU0VNUDc2cHVqRldIaHZHSk8xeFJ2cFVHMmZieXJzNXdaM9IBYEFVX3lxTE11clFUTFc1bTRCNlpUWWEwNjgyX3Y4NzVtWThkTF8zV0Q5dzVfdnpJTVNpWmVuSExFanpxak1OU0VNUDc2cHVqRldIaHZHSk8xeFJ2cFVHMmZieXJzNXdaMw?oc=5"
-    },
-    {
-      "title": "\"지금은 류현진의 시대\" 한화, 韓美 통산 200승 기념 상품 13종 출시…10일부터 판매",
+      "title": "한화에 150㎞ 강속구 선발이 또 자란다고?…7R 지명 1년 차 성장세, '메이드 인 서산' 또 해낼까",
       "source": "조선일보",
-      "published": "Tue, 07 Jul 2026 06:46:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb3ZHODl5bXNXYlh1aEY4cXRJZmRfaGcxbW11VGlZNUlGeXRFMDJKZTg2OEZOUUpoNG5va25mSldVdDlQMlRVbWRSZkh3cmZZQUN5QVgtUkpDaFV6Mi01MUxrQXJDTWlPejlvZmFpY1lvQjJFZkhwWWN4M1lvcHI3MUhYVQ?oc=5"
+      "published": "Mon, 06 Jul 2026 17:35:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaXBfczlLWWVCamM1aFRSTzNpUDZEc2RPSm9lNUhwVnNibURJYlFUV1pGYm9HSERMb2UwdHlVQlYzN29WTnRobWg5dGduWGxvUVhFclJWN2RnVmkwVG83VlN6dXhOajE2clkxTUZkQWxySDFCdkFSUldZc0NfWnNWdHFSNA?oc=5"
+    },
+    {
+      "title": "[프로야구전반기] ③류현진은 한미 통산 기록 행진, 최정은 홈런 부문 새 역사",
+      "source": "연합뉴스",
+      "published": "Thu, 09 Jul 2026 00:00:06 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcnhBNW54VFRMQ0hBZllQT1BucDM0aWVnVDl1NDg1Zm5FeFRKSUZDT2UwTHdMTmNhZTFLUzhTTHFuYTFVa1lwUjBWQVBzSEhjYWUtVUNLZ3B4NkxHejYwY9IBYEFVX3lxTE5VcnhBNW54VFRMQ0hBZllQT1BucDM0aWVnVDl1NDg1Zm5FeFRKSUZDT2UwTHdMTmNhZTFLUzhTTHFuYTFVa1lwUjBWQVBzSEhjYWUtVUNLZ3B4NkxHejYwYw?oc=5"
+    },
+    {
+      "title": "한화, 여름 김장 지원 봉사 실시…지역 취약계층 가정에 전달",
+      "source": "v.daum.net",
+      "published": "Wed, 08 Jul 2026 03:47:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzcVFCZXl2bjY1eUgwYjFGM0pBWHdVc3ZUd05nbmVCQ3dMRC12YURZOHpzZzRuQjZVX3UyNy1waDIyUnpTRlE?oc=5"
+    },
+    {
+      "title": "한화, 전반기 마지막 NC와 운명의 3연전 '5위 탈환 노린다'",
+      "source": "v.daum.net",
+      "published": "Mon, 06 Jul 2026 07:56:22 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weGtVVlpWa1M3T3BHRGRtak1DZENYeTlWQzk2SlFzeG9WWmY4UjQ1OFQ1dWlqOWdRMHZsNVJhY1VNTl9nVmk4S0pjdUhlVWtsZ0NlMw?oc=5"
     }
   ],
   "sources": {
