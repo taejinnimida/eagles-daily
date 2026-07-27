@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-26 13:07 KST",
-  "rank_date": "2026-07-25",
+  "updated_at": "2026-07-27 13:23 KST",
+  "rank_date": "2026-07-26",
   "source_status": {
-    "KBO 순위": "2026-07-25 · 10개 구단",
+    "KBO 순위": "2026-07-26 · 10개 구단",
     "팀 타격": "정상",
     "팀 투수": "정상",
     "경기 일정": "최근 5경기",
@@ -11,12 +11,12 @@
     "뉴스": "12건"
   },
   "latest_game": {
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "time": "18:00",
     "opponent": "LG 트윈스",
-    "hanwha_score": "11",
-    "opponent_score": "15",
-    "result": "패",
+    "hanwha_score": "14",
+    "opponent_score": "4",
+    "result": "승",
     "completed": true,
     "venue": "대전 한화생명 볼파크",
     "home_away": "홈",
@@ -24,6 +24,18 @@
     "detail": {}
   },
   "recent_games": [
+    {
+      "date": "2026-07-26",
+      "time": "18:00",
+      "opponent": "LG 트윈스",
+      "hanwha_score": "14",
+      "opponent_score": "4",
+      "result": "승",
+      "completed": true,
+      "venue": "대전 한화생명 볼파크",
+      "home_away": "홈",
+      "game_url": ""
+    },
     {
       "date": "2026-07-25",
       "time": "18:00",
@@ -71,24 +83,12 @@
       "venue": "광주",
       "home_away": "원정",
       "game_url": ""
-    },
-    {
-      "date": "2026-07-21",
-      "time": "18:30",
-      "opponent": "KIA 타이거즈",
-      "hanwha_score": "3",
-      "opponent_score": "7",
-      "result": "패",
-      "completed": true,
-      "venue": "광주",
-      "home_away": "원정",
-      "game_url": ""
     }
   ],
   "next_game": {
-    "date": "2026-07-26",
-    "time": "18:00",
-    "opponent": "LG 트윈스",
+    "date": "2026-07-28",
+    "time": "18:30",
+    "opponent": "롯데 자이언츠",
     "hanwha_score": "",
     "opponent_score": "",
     "result": "",
@@ -102,179 +102,179 @@
       "rank": "1",
       "team": "삼성 라이온즈",
       "short_team": "삼성",
-      "games": "93",
+      "games": "94",
       "wins": "57",
-      "losses": "34",
+      "losses": "35",
       "draws": "2",
-      "pct": "0.626",
+      "pct": "0.620",
       "gb": "0",
       "last10": "7승0무3패",
-      "streak": "3승"
+      "streak": "1패"
     },
     {
       "rank": "2",
       "team": "KT 위즈",
       "short_team": "KT",
-      "games": "90",
+      "games": "91",
       "wins": "53",
-      "losses": "35",
+      "losses": "36",
       "draws": "2",
-      "pct": "0.602",
+      "pct": "0.596",
       "gb": "2.5",
-      "last10": "9승1무0패",
-      "streak": "9승"
+      "last10": "8승1무1패",
+      "streak": "1패"
     },
     {
       "rank": "3",
       "team": "LG 트윈스",
       "short_team": "LG",
-      "games": "93",
+      "games": "94",
       "wins": "53",
-      "losses": "40",
+      "losses": "41",
       "draws": "0",
-      "pct": "0.570",
+      "pct": "0.564",
       "gb": "5",
-      "last10": "2승0무8패",
-      "streak": "1승"
+      "last10": "1승0무9패",
+      "streak": "1패"
     },
     {
       "rank": "4",
       "team": "KIA 타이거즈",
       "short_team": "KIA",
-      "games": "95",
+      "games": "96",
       "wins": "50",
-      "losses": "43",
+      "losses": "44",
       "draws": "2",
-      "pct": "0.538",
+      "pct": "0.532",
       "gb": "8",
-      "last10": "6승0무4패",
-      "streak": "1승"
+      "last10": "5승0무5패",
+      "streak": "1패"
     },
     {
       "rank": "5",
       "team": "두산 베어스",
       "short_team": "두산",
-      "games": "94",
-      "wins": "47",
+      "games": "95",
+      "wins": "48",
       "losses": "44",
       "draws": "3",
-      "pct": "0.516",
-      "gb": "10",
-      "last10": "5승1무4패",
-      "streak": "2패"
+      "pct": "0.522",
+      "gb": "9",
+      "last10": "6승1무3패",
+      "streak": "1승"
     },
     {
       "rank": "6",
       "team": "한화 이글스",
       "short_team": "한화",
-      "games": "91",
-      "wins": "43",
+      "games": "92",
+      "wins": "44",
       "losses": "45",
       "draws": "3",
-      "pct": "0.489",
-      "gb": "12.5",
+      "pct": "0.494",
+      "gb": "11.5",
       "last10": "4승1무5패",
-      "streak": "1패"
+      "streak": "1승"
     },
     {
       "rank": "7",
       "team": "NC 다이노스",
       "short_team": "NC",
-      "games": "90",
+      "games": "91",
       "wins": "42",
       "losses": "47",
-      "draws": "1",
+      "draws": "2",
       "pct": "0.472",
-      "gb": "14",
-      "last10": "4승0무6패",
+      "gb": "13.5",
+      "last10": "3승1무6패",
       "streak": "2패"
     },
     {
       "rank": "8",
       "team": "롯데 자이언츠",
       "short_team": "롯데",
-      "games": "93",
-      "wins": "40",
+      "games": "94",
+      "wins": "41",
       "losses": "51",
       "draws": "2",
-      "pct": "0.440",
-      "gb": "17",
+      "pct": "0.446",
+      "gb": "16",
       "last10": "3승0무7패",
-      "streak": "4패"
+      "streak": "1승"
     },
     {
       "rank": "9",
       "team": "SSG 랜더스",
       "short_team": "SSG",
-      "games": "95",
+      "games": "96",
       "wins": "36",
       "losses": "56",
-      "draws": "3",
+      "draws": "4",
       "pct": "0.391",
-      "gb": "21.5",
-      "last10": "5승0무5패",
+      "gb": "21",
+      "last10": "5승1무4패",
       "streak": "4승"
     },
     {
       "rank": "10",
       "team": "키움 히어로즈",
       "short_team": "키움",
-      "games": "96",
-      "wins": "34",
+      "games": "97",
+      "wins": "35",
       "losses": "60",
       "draws": "2",
-      "pct": "0.362",
-      "gb": "24.5",
-      "last10": "5승1무4패",
-      "streak": "1패"
+      "pct": "0.368",
+      "gb": "23.5",
+      "last10": "6승1무3패",
+      "streak": "1승"
     }
   ],
   "hanwha_standing": {
     "rank": "6",
     "team": "한화 이글스",
     "short_team": "한화",
-    "games": "91",
-    "wins": "43",
+    "games": "92",
+    "wins": "44",
     "losses": "45",
     "draws": "3",
-    "pct": "0.489",
-    "gb": "12.5",
+    "pct": "0.494",
+    "gb": "11.5",
     "last10": "4승1무5패",
-    "streak": "1패"
+    "streak": "1승"
   },
   "team_hitting": {
-    "rank": "3",
+    "rank": "2",
     "team": "한화 이글스",
-    "avg": "0.276",
-    "games": "91",
-    "pa": "3706",
-    "ab": "3227",
-    "runs": "541",
-    "hits": "892",
-    "doubles": "147",
-    "triples": "14",
-    "hr": "105",
-    "tb": "1382",
-    "rbi": "510"
+    "avg": "0.278",
+    "games": "92",
+    "pa": "3753",
+    "ab": "3265",
+    "runs": "555",
+    "hits": "907",
+    "doubles": "150",
+    "triples": "15",
+    "hr": "108",
+    "tb": "1411",
+    "rbi": "522"
   },
   "team_pitching": {
-    "rank": "7",
+    "rank": "6",
     "team": "한화 이글스",
-    "era": "4.70",
-    "games": "91",
-    "wins": "43",
+    "era": "4.69",
+    "games": "92",
+    "wins": "44",
     "losses": "45",
     "saves": "13",
-    "holds": "45",
-    "wpct": "0.489",
-    "innings": "812 2/3",
-    "hits": "853",
-    "hr": "80",
-    "walks": "367",
-    "hbp": "64",
-    "strikeouts": "657",
-    "runs": "480",
-    "earned_runs": "424",
+    "holds": "46",
+    "wpct": "0.494",
+    "innings": "821 2/3",
+    "hits": "864",
+    "hr": "81",
+    "walks": "370",
+    "hbp": "65",
+    "strikeouts": "664",
+    "runs": "484",
+    "earned_runs": "428",
     "whip": "1.50"
   },
   "hitters": [
@@ -299,32 +299,32 @@
       "name": "페라자",
       "team": "한화 이글스",
       "avg": "0.308",
-      "games": "91",
-      "pa": "406",
-      "ab": "334",
-      "runs": "75",
-      "hits": "103",
+      "games": "92",
+      "pa": "410",
+      "ab": "338",
+      "runs": "76",
+      "hits": "104",
       "doubles": "24",
       "triples": "1",
       "hr": "18",
-      "tb": "183",
+      "tb": "184",
       "rbi": "60"
     },
     {
-      "rank": "17",
+      "rank": "16",
       "name": "문현빈",
       "team": "한화 이글스",
-      "avg": "0.298",
-      "games": "89",
-      "pa": "406",
-      "ab": "356",
-      "runs": "58",
-      "hits": "106",
+      "avg": "0.304",
+      "games": "90",
+      "pa": "411",
+      "ab": "359",
+      "runs": "59",
+      "hits": "109",
       "doubles": "24",
       "triples": "4",
       "hr": "10",
-      "tb": "168",
-      "rbi": "54"
+      "tb": "171",
+      "rbi": "55"
     }
   ],
   "pitchers": [
@@ -373,6 +373,12 @@
   ],
   "news": [
     {
+      "title": "한화이글스 좌석 점유율 98%…열기 확산",
+      "source": "KBS 뉴스",
+      "published": "Sun, 26 Jul 2026 13:24:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52QklmTGk4NFlvaFhidXI1bnZDbUVIQ2Z0R3IyYnhEbFVVV1NpZ0dTSU5NWEgxLXJ4ZW9YcFhkYzA1WUJpVWpRV3FISUFXLW52VFk4T2tRRnJTWFE1d3doNTRWSll6Zw?oc=5"
+    },
+    {
       "title": "한화이글스, KIA와 하주석-이형범 1대1 트레이드",
       "source": "v.daum.net",
       "published": "Thu, 23 Jul 2026 12:46:57 GMT",
@@ -385,34 +391,10 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9peVgxdzhBN0l1MWd2U2tDbk1vcmpNZ2JPelY1OXRMaXY4bnNuTGhHR0ZoOFJOT28yeC1NVElpLThEcDBXUGx4QWdXNjlhSzJlTDZ3cDRORm1obTjSAWBBVV95cUxPRVpEcmR0anBjUDBScVhTODZRREVuQXBLOFVacmZGTktscGtBbV9RLTY1eW8tazRoMkQ2VDRlQXBnbTNuOFhGMl95YTV5ZHI2ZmhyclRyM2tGUXlUQTBwNE4?oc=5"
     },
     {
-      "title": "'홈런 치고 자동차까지' 한화 문현빈, 광주 적진서 '2년 연속 10홈런'→3000만원 차량도 얻었다 [광주 현장] - 머니투데이",
-      "source": "머니투데이",
-      "published": "Thu, 23 Jul 2026 10:36:47 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95R3pjVUJFUi1FQTE4aEI1ZXgyeVhkcEh1ZTdBUGo5bUFyb1NYSUdzM2NxdFlZUWFnU3pZMnp0dEdSY1otb29sOERqbllSX28ta2c5WUdpYWpHU1FOVEZUaGluTlRLYzJxc0p0c28tUdIBb0FVX3lxTE95R3pjVUJFUi1FQTE4aEI1ZXgyeVhkcEh1ZTdBUGo5bUFyb1NYSUdzM2NxdFlZUWFnU3pZMnp0dEdSY1otb29sOERqbllSX28ta2c5WUdpYWpHU1FOVEZUaGluTlRLYzJxc0p0c28tUQ?oc=5"
-    },
-    {
       "title": "평생 잊지 못할 소중한 추억…한화 떠난 하주석, 작별 인사 남겼다",
       "source": "아주경제",
       "published": "Fri, 24 Jul 2026 06:03:10 GMT",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XbDhQOVpZUS1zaVprSEtJXzlPeV9odkJNRkEteFBSUnplOFNnaTZFUzN4dURDWUZqa1dPTzlkdUlNaFBLTUpJbkl0NmI3NElpZ2hJZ0lhMnfSAVhBVV95cUxOV2w4UDlaWVEtc2laa0hLSV85T3lfaHZCTUZBLXhQUlJ6ZThTZ2k2RVMzeHVEQ1lGamtXT085ZHVJTWhQS01KSW5JdDZiNzRJaWdoSWdJYTJ3?oc=5"
-    },
-    {
-      "title": "프로야구 한화, 외국인 투수 에르난데스 퇴출 결정",
-      "source": "연합뉴스",
-      "published": "Sun, 19 Jul 2026 05:43:38 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRFBoRTlIVVB2dmMwZF9yUF94OWFJcGIxZGxneUhKNndNc1p4R0J4dGJLd1I0TW50TU83UEVqWHJSQ3BZMi0zSWtNRWFmdDU5eVp5LWEwTU9XTVnSAWBBVV95cUxOcFowZTc1NnU0eWl0ZkZ3d0dxMGxWUlZPdGtLWTVMNEdNbUpFZlhPdGNLOEdnQ2REUGs5eno5d0l3TzFSMWRnNXVsTWhmM3RyNDNRdnZQb1U3aWktT21kLXU?oc=5"
-    },
-    {
-      "title": "'트레이드로 KIA행' 하주석 작별 인사 \"한화서 보낸 시간, 야구 인생 가장 소중한 페이지→평생 잊지 않겠다\" - 머니투데이",
-      "source": "머니투데이",
-      "published": "Fri, 24 Jul 2026 04:05:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04RHFfRDNEN3VsUkxpY3hCN1V1QUJkdnBpNVQ2LXlxbEMxWjZpeGptcUEzRVU2TTdlUjg5MERzem14TWlZVGJWNk1wanRfcC10U3J0bWpWYkVxQXVmM29lZXNkdGtvTFVndUJsQkhYZ9IBb0FVX3lxTE04RHFfRDNEN3VsUkxpY3hCN1V1QUJkdnBpNVQ2LXlxbEMxWjZpeGptcUEzRVU2TTdlUjg5MERzem14TWlZVGJWNk1wanRfcC10U3J0bWpWYkVxQXVmM29lZXNkdGtvTFVndUJsQkhYZw?oc=5"
-    },
-    {
-      "title": "한화이글스, 외국인 투수 에르난데스 방출",
-      "source": "v.daum.net",
-      "published": "Sun, 19 Jul 2026 11:42:21 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IN0pxbzNjSmRBV21UcmYwYVBJY0JVUGR4SEpDZllnMGc4RUdIMTRtdXlweFB5QTVhWTZUSllHTTgzRUl6bkE?oc=5"
     },
     {
       "title": "상무 김기중, 프로야구 첫 이물질 부정투구 적발…10경기 정지",
@@ -427,22 +409,40 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DcVM3eGpVWHdITkg0T3lpa2Z5UjhDV0E3LWlpSWFQYjUtd3NGaFN6STNhdDNnWS1MWDNNOEotSEpxdmJoWXdOeFFyNFVrV2s?oc=5"
     },
     {
-      "title": "한화이글스, 윌켈 에르난데스 웨이버 공시",
-      "source": "v.daum.net",
-      "published": "Sun, 19 Jul 2026 05:41:52 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xRi1QWHFoYTNCVC16RVhGalNxQXZNYV9vWEF3NUJoWndhTWg1ZWNmV1RvdlZfZ3FRTUt6empHazZVZTdZLXc?oc=5"
-    },
-    {
       "title": "'한화 무려 19일 만이다' ERA 1점대 KIA 킬러 해냈다, 위기의 한화 구하다…당사자도 대만족 \"나에게 칭찬해 줄래\"",
       "source": "v.daum.net",
       "published": "Thu, 23 Jul 2026 03:02:39 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTcm82bm1WMnBIRmVhWFRXTXl3NkFrclBIVlJZWUZ1NDZKckNzRjYybWo0NUdJdVpYek45bTk0SzAxcFhXTWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrY1NHd3JtejJZajVIdERPdDR1WURGTnpaZ3dCQUlDMDRIWmVHT2hiU3NFMlVpU2UxQ2pOQnV5REdDY0pMY3lBNzFsNXZiWkc3TFVqNw?oc=5"
     },
     {
-      "title": "\"팬 여러분, 죄송했다\" 한화 떠난 하주석의 마지막 인사, \"평생 잊지 못할 소중한 추억\" - 머니투데이",
-      "source": "머니투데이",
-      "published": "Fri, 24 Jul 2026 04:22:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kNVJSQ0w1a2Y5cEcweWtvaEdtZUdlcmZlSl83WGk4YW5qcmliTklJVElUWjdKdTV5UlJNSl9PYmFKbG1CYVZ6b2JXMUEtV1MtUU03M1cyckhtU0xTT0NQWmdGU3BVLWUzaF9Wbk9hNNIBb0FVX3lxTE5kNVJSQ0w1a2Y5cEcweWtvaEdtZUdlcmZlSl83WGk4YW5qcmliTklJVElUWjdKdTV5UlJNSl9PYmFKbG1CYVZ6b2JXMUEtV1MtUU03M1cyckhtU0xTT0NQWmdGU3BVLWUzaF9Wbk9hNA?oc=5"
+      "title": "한화 하주석-KIA 이형범 1대1 트레이드 깜짝 성사!…\"팀 전력에 보탬될 것이라 기대\"",
+      "source": "v.daum.net",
+      "published": "Thu, 23 Jul 2026 12:31:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hOTVXbkVucUN5NmVTT0lKUGZ0VTA2Q0RIcU1PV0NjbmNwekVjVnFISnJKVWROMmVkckFvRmJOUTdTY0dqd3VXSnNlRGVNUTg?oc=5"
+    },
+    {
+      "title": "'15년 이글스맨' 하주석, 정든 대전 떠난다… KIA서 새 출발",
+      "source": "asportstv.kr",
+      "published": "Fri, 24 Jul 2026 02:57:39 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LSEQyRHZuemphOGlGaEpMWGt5LUU2YjJMR0RaUkhrOHlkT0psSV9iOXhMdFFMcE1nclpLZlptMHBwQXBZVlBmeXhfQmNodGRSa0dTTlRRTUdCb2V2cElNMXJFSmI0SVRs?oc=5"
+    },
+    {
+      "title": "'광주서 첫인사' 6.5억에 모셔온 한화 구세주, 韓 오자마자 이렇게 외쳤다…\"한화 가을야구 가자, 행복하고 설렌다\" [MD광주]",
+      "source": "v.daum.net",
+      "published": "Thu, 23 Jul 2026 10:02:49 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXQjY0T1daMWZNTlZOaXYtUHNSc0NuODdzRkRuMnRKUms4TW96N1VzVUZHMnlzc2JxVnJzMEdmQllyaUtXR0NXamhOcw?oc=5"
+    },
+    {
+      "title": "[오피셜] 이럴 수가! FA 굴욕→연봉 122% 폭등 '대반전' 썼던 이글스 원클럽맨, 둥지 떠난다...한화 하주석↔KIA 이형범 1대1 맞트레이드",
+      "source": "v.daum.net",
+      "published": "Thu, 23 Jul 2026 13:17:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tQUQxZDNvbnVCNVoyWEVmbEJqeGUtZlN3MUJKWWExSDN3cHhfQmZjNGVCcEdIZ2d4WmhIRGV0TVpTTU8yXzBRUUxIVWFKa0k?oc=5"
+    },
+    {
+      "title": "'한화맨' 하주석 전격 트레이드 단행…'이 팀' 선수와 맞교환",
+      "source": "위키트리",
+      "published": "Thu, 23 Jul 2026 23:41:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GVUpvVXhrR2dWeU42ZW03VENYYXl0ckh4Ni1mS2VXX0VhSmU4MVRoZ1ZnQUVCdXVRYkktN1preGZQVWQxU184SFpySExBQ0JDSy1zNnBn?oc=5"
     }
   ],
   "sources": {
