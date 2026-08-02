@@ -1,31 +1,44 @@
 {
-  "updated_at": "2026-08-01 13:02 KST",
-  "rank_date": "2026-07-31",
+  "updated_at": "2026-08-02 13:04 KST",
+  "rank_date": "2026-08-01",
   "source_status": {
-    "KBO 순위": "2026-07-31 · 10개 구단",
+    "KBO 순위": "2026-08-01 · 10개 구단",
     "팀 타격": "정상",
     "팀 투수": "정상",
-    "경기 일정": "최근 0경기",
-    "주요 타자": "4명",
+    "경기 일정": "최근 1경기",
+    "주요 타자": "5명",
     "주요 투수": "2명",
     "뉴스": "12건"
   },
   "latest_game": {
-    "date": "2026-07-30",
-    "time": "18:30",
-    "opponent": "롯데 자이언츠",
-    "hanwha_score": "3",
-    "opponent_score": "2",
-    "result": "승",
+    "date": "2026-08-01",
+    "time": "18:00",
+    "opponent": "KT 위즈",
+    "hanwha_score": "4",
+    "opponent_score": "7",
+    "result": "패",
     "completed": true,
-    "venue": "대전 한화생명 볼파크",
-    "home_away": "홈",
+    "venue": "수원",
+    "home_away": "원정",
     "game_url": "",
     "detail": {}
   },
-  "recent_games": [],
+  "recent_games": [
+    {
+      "date": "2026-08-01",
+      "time": "18:00",
+      "opponent": "KT 위즈",
+      "hanwha_score": "4",
+      "opponent_score": "7",
+      "result": "패",
+      "completed": true,
+      "venue": "수원",
+      "home_away": "원정",
+      "game_url": ""
+    }
+  ],
   "next_game": {
-    "date": "2026-08-01",
+    "date": "2026-08-02",
     "time": "18:00",
     "opponent": "KT 위즈",
     "hanwha_score": "",
@@ -39,6 +52,19 @@
   "standings": [
     {
       "rank": "1",
+      "team": "KT 위즈",
+      "short_team": "KT",
+      "games": "96",
+      "wins": "58",
+      "losses": "36",
+      "draws": "2",
+      "pct": "0.617",
+      "gb": "0",
+      "last10": "8승1무1패",
+      "streak": "5승"
+    },
+    {
+      "rank": "2",
       "team": "삼성 라이온즈",
       "short_team": "삼성",
       "games": "98",
@@ -51,42 +77,29 @@
       "streak": "1승"
     },
     {
-      "rank": "2",
-      "team": "KT 위즈",
-      "short_team": "KT",
-      "games": "95",
-      "wins": "57",
-      "losses": "36",
-      "draws": "2",
-      "pct": "0.613",
-      "gb": "0.5",
-      "last10": "8승1무1패",
-      "streak": "4승"
-    },
-    {
       "rank": "3",
       "team": "LG 트윈스",
       "short_team": "LG",
-      "games": "98",
+      "games": "99",
       "wins": "55",
       "losses": "43",
-      "draws": "0",
+      "draws": "1",
       "pct": "0.561",
       "gb": "5",
-      "last10": "3승0무7패",
+      "last10": "3승1무6패",
       "streak": "1패"
     },
     {
       "rank": "4",
       "team": "두산 베어스",
       "short_team": "두산",
-      "games": "99",
+      "games": "100",
       "wins": "51",
       "losses": "45",
-      "draws": "3",
+      "draws": "4",
       "pct": "0.531",
       "gb": "8",
-      "last10": "6승1무3패",
+      "last10": "5승2무3패",
       "streak": "2승"
     },
     {
@@ -106,14 +119,14 @@
       "rank": "6",
       "team": "한화 이글스",
       "short_team": "한화",
-      "games": "96",
+      "games": "97",
       "wins": "46",
-      "losses": "47",
+      "losses": "48",
       "draws": "3",
-      "pct": "0.495",
-      "gb": "11.5",
+      "pct": "0.489",
+      "gb": "12",
       "last10": "6승0무4패",
-      "streak": "1패"
+      "streak": "2패"
     },
     {
       "rank": "7",
@@ -145,86 +158,86 @@
       "rank": "9",
       "team": "SSG 랜더스",
       "short_team": "SSG",
-      "games": "100",
-      "wins": "37",
+      "games": "101",
+      "wins": "38",
       "losses": "59",
       "draws": "4",
-      "pct": "0.385",
-      "gb": "22",
-      "last10": "5승1무4패",
-      "streak": "2패"
+      "pct": "0.392",
+      "gb": "21.5",
+      "last10": "6승1무3패",
+      "streak": "1승"
     },
     {
       "rank": "10",
       "team": "키움 히어로즈",
       "short_team": "키움",
-      "games": "101",
+      "games": "102",
       "wins": "37",
-      "losses": "62",
+      "losses": "63",
       "draws": "2",
-      "pct": "0.374",
-      "gb": "23.5",
+      "pct": "0.370",
+      "gb": "24",
       "last10": "5승0무5패",
-      "streak": "1승"
+      "streak": "1패"
     }
   ],
   "hanwha_standing": {
     "rank": "6",
     "team": "한화 이글스",
     "short_team": "한화",
-    "games": "96",
+    "games": "97",
     "wins": "46",
-    "losses": "47",
+    "losses": "48",
     "draws": "3",
-    "pct": "0.495",
-    "gb": "11.5",
+    "pct": "0.489",
+    "gb": "12",
     "last10": "6승0무4패",
-    "streak": "1패"
+    "streak": "2패"
   },
   "team_hitting": {
     "rank": "3",
     "team": "한화 이글스",
     "avg": "0.278",
-    "games": "96",
-    "pa": "3908",
-    "ab": "3399",
-    "runs": "569",
-    "hits": "944",
-    "doubles": "156",
+    "games": "97",
+    "pa": "3947",
+    "ab": "3434",
+    "runs": "573",
+    "hits": "955",
+    "doubles": "158",
     "triples": "15",
-    "hr": "111",
-    "tb": "1463",
-    "rbi": "536"
+    "hr": "113",
+    "tb": "1482",
+    "rbi": "540"
   },
   "team_pitching": {
     "rank": "6",
     "team": "한화 이글스",
-    "era": "4.70",
-    "games": "96",
+    "era": "4.73",
+    "games": "97",
     "wins": "46",
-    "losses": "47",
+    "losses": "48",
     "saves": "14",
     "holds": "47",
-    "wpct": "0.495",
-    "innings": "856 2/3",
-    "hits": "914",
+    "wpct": "0.489",
+    "innings": "864 2/3",
+    "hits": "923",
     "hr": "83",
-    "walks": "380",
-    "hbp": "67",
-    "strikeouts": "689",
-    "runs": "503",
-    "earned_runs": "447",
+    "walks": "384",
+    "hbp": "69",
+    "strikeouts": "697",
+    "runs": "510",
+    "earned_runs": "454",
     "whip": "1.51"
   },
   "hitters": [
     {
-      "rank": "10",
+      "rank": "11",
       "name": "강백호",
       "team": "한화 이글스",
-      "avg": "0.314",
-      "games": "83",
-      "pa": "362",
-      "ab": "318",
+      "avg": "0.311",
+      "games": "84",
+      "pa": "366",
+      "ab": "322",
       "runs": "53",
       "hits": "100",
       "doubles": "18",
@@ -234,13 +247,13 @@
       "rbi": "86"
     },
     {
-      "rank": "15",
+      "rank": "17",
       "name": "페라자",
       "team": "한화 이글스",
-      "avg": "0.302",
-      "games": "96",
-      "pa": "426",
-      "ab": "351",
+      "avg": "0.299",
+      "games": "97",
+      "pa": "430",
+      "ab": "354",
       "runs": "77",
       "hits": "106",
       "doubles": "24",
@@ -253,10 +266,10 @@
       "rank": "20",
       "name": "문현빈",
       "team": "한화 이글스",
-      "avg": "0.298",
-      "games": "94",
-      "pa": "427",
-      "ab": "373",
+      "avg": "0.296",
+      "games": "95",
+      "pa": "429",
+      "ab": "375",
       "runs": "60",
       "hits": "111",
       "doubles": "24",
@@ -280,6 +293,22 @@
       "hr": "8",
       "tb": "114",
       "rbi": "27"
+    },
+    {
+      "rank": "28",
+      "name": "이도윤",
+      "team": "한화 이글스",
+      "avg": "0.284",
+      "games": "86",
+      "pa": "301",
+      "ab": "275",
+      "runs": "34",
+      "hits": "78",
+      "doubles": "14",
+      "triples": "3",
+      "hr": "2",
+      "tb": "104",
+      "rbi": "34"
     }
   ],
   "pitchers": [
@@ -331,37 +360,37 @@
       "title": "한화이글스, 롯데 자이언츠에 3-9 패..오늘 왕옌청 출격",
       "source": "티제이비",
       "published": "Wed, 29 Jul 2026 00:10:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JX3BKb2Z3b2xRRzZkQ1NGalNzaUtSRWIxSGhKRDE4R08xeDBuRTdFd2tubEJucHhrMG44Wk1VNWNkQm0tb2hITlRlUXJKU0VZeEs5eUZmX05RXzJk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KbnFTd1djaFp2NmkwZkx5ZUlVWUtzX212NTZDSk1UOW1xMmFUdEJUVk90N0p4Ukd5Unc2N0s2aGlVMngxQ0ZCS3RqVFN5aFl4U0FpNTZjWkc5MWVzc1ZKZlp2OEZSUEN2ZUE?oc=5"
+    },
+    {
+      "title": "‘한화 이글스 xxx’이 될 수도 있었는데… 두산의 엄청난 행운, 복덩이가 굴러왔다",
+      "source": "v.daum.net",
+      "published": "Tue, 28 Jul 2026 21:17:37 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MWUt5UE0yNmFJSlN5T2dTcEpqOEhwQnBCVGx4QXBjUTlHRmQ3UVlzbXdZVm1naGF2QUVqYjRaUGJkMVFKWHA3VFlLOXRIWDg?oc=5"
+    },
+    {
+      "title": "유재석 \"롯데 자이언츠·한화 이글스, 우승 한 번 하길 바라\"('유퀴즈')[순간포착]",
+      "source": "조선일보",
+      "published": "Wed, 29 Jul 2026 12:13:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1FManYwSVZjcjBFNWZWTS1tNjR2LWp1VG8ySlJJdXJKcEFTazJUTGtSUTVaS0pkTFFTN2lGRm9hdzFvTTFQN2NuMzZCS3RmWnpVdmNfRjcyRHhKLWhlendkX21fRWc2RkZ0M3VuaHpCaVZrWGRocTA2emtQaXVDN0xnZUx5ZGJXYVZuSlNydw?oc=5"
     },
     {
       "title": "가성비 최고 투수로 우뚝…한화 왕옌청, 류지현호 경계대상으로",
-      "source": "뉴시스",
+      "source": "newsis.com",
       "published": "Fri, 31 Jul 2026 23:30:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xdXlrQWJHNjFLMHdab1M5UTc0dTBLM3VJTVpZMkdyVlpuV3BDLWJWQng3LWpiRVFISWd1SzNTekRFT1owQWxtZGNFakh0aThMeUtXaXVOa085aGxYXzM5SjVJal9uaV9ocEI5MV8wODhuakk5S05RT9IBeEFVX3lxTE5xdXlrQWJHNjFLMHdab1M5UTc0dTBLM3VJTVpZMkdyVlpuV3BDLWJWQng3LWpiRVFISWd1SzNTekRFT1owQWxtZGNFakh0aThMeUtXaXVOa085aGxYXzM5SjVJal9uaV9ocEI5MV8wODhuakk5S05RTw?oc=5"
     },
     {
-      "title": "'와' 그 짧은 공에 두 번이나 홈인이라니! 힐리어드 주루에 한화가 홀렸다... KT 4연승 질주 [수원 현장리뷰] - 머니투데이",
-      "source": "머니투데이",
-      "published": "Fri, 31 Jul 2026 12:34:19 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hZWpobjJRUjBCMXpLTU1iSHp1d2JRNjdNclZhYUZFUEFmcmFhaXZ0a2pteUVERVN4S3gyRk0tYmJhVXZNQlphcWRjVG1GTDRQS1VqV2lreWVvVDlRZnZxdGVXanhlaFJla0QtUFNHc9IBb0FVX3lxTE5hZWpobjJRUjBCMXpLTU1iSHp1d2JRNjdNclZhYUZFUEFmcmFhaXZ0a2pteUVERVN4S3gyRk0tYmJhVXZNQlphcWRjVG1GTDRQS1VqV2lreWVvVDlRZnZxdGVXanhlaFJla0QtUFNHcw?oc=5"
+      "title": "한화이글스, 스프링 캠프서 신인선수 이색 졸업식",
+      "source": "중부매일",
+      "published": "Sat, 01 Aug 2026 13:05:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55WFdORVdlXy0zUElZd3FQNjF0Vl9lbDRYcW9HUTJmc1NvMHRCU2I4b19vT1p2eFB4MmhPWDBxbWY0QUJJal95T0xqV0VnbHAxUk1maHB3OTRYdUNWZGZyUkZhSll2aEk30gFsQVVfeXFMUGpiY01NOGlac2pnNWgxcFVuRmR5cFNETXA3Mm9McFE5aThmRzkxT01ZZVBXdkx1N2pQNEhkZ0NOWmhURGJUSWx4YkZKbnBYZU9EQkJmYkdTczdQdG1xMXViSFJlQzItWlhPVDda?oc=5"
     },
     {
-      "title": "'괴물 투수' 류현진 무너뜨린 KT 위즈, 한화에 5-3 짜릿한 역전승…4연승 질주",
-      "source": "경기신문",
-      "published": "Fri, 31 Jul 2026 14:06:41 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SUERjZ0lLTmpEc1hfZ2V4bEkzOWxHaXNtdnptSzBETTVsOVZteEplYUEySms1dG42UjJpYk5lVExYZFV0anRQVEFwaHVveVFSVnlBYWw5d3JETE1qZHk0?oc=5"
-    },
-    {
-      "title": "이러려고 하주석 광주로 보냈나…트레이드 필승맨 또 0이닝 1실점 강판, 한화 이적→ERA 32.40 어쩌나",
-      "source": "v.daum.net",
-      "published": "Fri, 31 Jul 2026 20:13:10 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43bWlTcjRUMGNaTDFOWFRBS1dUU1hDU3h3R0NIVlRJYmNmc1ZSeXZCY1hMT01MRDdGU1l4TkttNHVkc3pUYkEtaVl2UmJ0eU0?oc=5"
-    },
-    {
-      "title": "'강백호 복귀' 한화, 완전체 타선 구축…김경문 \"빠른 회복 놀랐다\"",
-      "source": "news1.kr",
-      "published": "Fri, 31 Jul 2026 08:38:01 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6OTRvamRwLTdtSm4zYmZGc3dSaUx0RE1lRW9qY2N5ZUItbGppZ1hreXJHZzkzTThwZy0tZHFwUmliUGJycDRkRzBnd2dNU3JNNktjNU5fSQ?oc=5"
+      "title": "'충격' 1이닝 7실점→노시환·강백호 앞에서 삼중살이라니... '5할 승률 도전' 한화 지독히 안 풀린다 [수원 현장] - 머니투데이",
+      "source": "mt.co.kr",
+      "published": "Sat, 01 Aug 2026 11:11:48 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVV82OEtwWU1ySElYeUdwdE5tV01BbVZma3JMRGdfcmpVb1BnOXNFSEpqdFE4V2tMaTZGdXF0Z3NzbmVWQ3NsS0hmYzdxX2YxQWF5d0hrbnB4V3ZBc254aDJLVE1mS2JWUlFMZXVvVdIBb0FVX3lxTE8tVV82OEtwWU1ySElYeUdwdE5tV01BbVZma3JMRGdfcmpVb1BnOXNFSEpqdFE4V2tMaTZGdXF0Z3NzbmVWQ3NsS0hmYzdxX2YxQWF5d0hrbnB4V3ZBc254aDJLVE1mS2JWUlFMZXVvVQ?oc=5"
     },
     {
       "title": "류현진 10년 연속 100이닝에도…한화 3점 리드 날리고 5할 붕괴",
@@ -370,34 +399,34 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jR2lFeERlaDE2TWFpQVZLTVctSzAtTW51YmhwRnRkM3Iwc1I5d0NQQXhWYnlhNWQtOFZvdW1QRUR0czlnMFZYNUxxeHRsQVBWZjVGX2hwN2NmVk1IYmVYeGhFZmd1WE03RUx3N0FrNNIBc0FVX3lxTE56dGpQNFV4MmhxNHVlaU5ZVlRjejFjX1NtNzlWMjBDeGJ5RnZKMC1mVUp3RXpCQk1PQ1dON2FOS1NkblpQRGhtMDZOcmdqOEh1UElpVmVmRHVGcENKUkwtTVlQTlZ6d0tWM1RiZEdHMnROR1k?oc=5"
     },
     {
+      "title": "'와' 그 짧은 공에 두 번이나 홈인이라니! 힐리어드 주루에 한화가 홀렸다... KT 4연승 질주 [수원 현장리뷰] - 머니투데이",
+      "source": "mt.co.kr",
+      "published": "Fri, 31 Jul 2026 12:34:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hZWpobjJRUjBCMXpLTU1iSHp1d2JRNjdNclZhYUZFUEFmcmFhaXZ0a2pteUVERVN4S3gyRk0tYmJhVXZNQlphcWRjVG1GTDRQS1VqV2lreWVvVDlRZnZxdGVXanhlaFJla0QtUFNHc9IBb0FVX3lxTE5hZWpobjJRUjBCMXpLTU1iSHp1d2JRNjdNclZhYUZFUEFmcmFhaXZ0a2pteUVERVN4S3gyRk0tYmJhVXZNQlphcWRjVG1GTDRQS1VqV2lreWVvVDlRZnZxdGVXanhlaFJla0QtUFNHcw?oc=5"
+    },
+    {
+      "title": "'하주석과 트레이드' 한화 이형범, 3G 연속 실점 여파 2군행…좌완 권민규 1군 등록 [수원 현장]",
+      "source": "v.daum.net",
+      "published": "Sat, 01 Aug 2026 07:58:09 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2U0tTSU43VEF3V2hlRXJ1RUVwLS1GUmpzZWp6dHo4VXlkbHZpeGRTcWhDMkNvaFJGOERyNzR0R1dFdVVZSnc?oc=5"
+    },
+    {
       "title": "[포토] '2회초 수비가 아쉽다!' 소형준 - 머니투데이",
-      "source": "머니투데이",
+      "source": "mt.co.kr",
       "published": "Fri, 31 Jul 2026 10:07:55 GMT",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fUlVydmRiZGpFV3l1bjlyXzVKRmR2amJidjMzOVRDU0lPenNUeTNnX0h5cEowMGhZam1jTWV6WW9SR3JNVTlYQmlGdklzTEFSVXk1clcxUkpBWlhBRlR0bG9tUHdPSm1JTjlILTVLUdIBb0FVX3lxTE1fUlVydmRiZGpFV3l1bjlyXzVKRmR2amJidjMzOVRDU0lPenNUeTNnX0h5cEowMGhZam1jTWV6WW9SR3JNVTlYQmlGdklzTEFSVXk1clcxUkpBWlhBRlR0bG9tUHdPSm1JTjlILTVLUQ?oc=5"
     },
     {
+      "title": "'강백호 복귀' 한화, 완전체 타선 구축…김경문 \"빠른 회복 놀랐다\"",
+      "source": "v.daum.net",
+      "published": "Fri, 31 Jul 2026 08:39:51 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1UDRNcVBCdEcyd3puc29XUlV4emJsWUtfbm1FUlV6bzlRZURPUGpINlhTSTdlOVd0WVRqOUdCUGxDc0RjRmNMdXQ3SnFmdDQ?oc=5"
+    },
+    {
       "title": "[포토] '류현진과 선발대결 펼치는' 소형준 - 머니투데이",
-      "source": "머니투데이",
+      "source": "mt.co.kr",
       "published": "Fri, 31 Jul 2026 10:05:47 GMT",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LY0RSTUwySzlQdUp2VE9MNktSaXU1Y1RXR1hhaUM2RkkzQTZyS2xEb2RJakJpLUxJT0Q2TGZ5MjhEdGc3elZKempNRDRiRlk4S2xKY0hDX0NLdVYzcGN2OS1tNFl3Ny1pWmJZajIwZ9IBb0FVX3lxTE9LY0RSTUwySzlQdUp2VE9MNktSaXU1Y1RXR1hhaUM2RkkzQTZyS2xEb2RJakJpLUxJT0Q2TGZ5MjhEdGc3elZKempNRDRiRlk4S2xKY0hDX0NLdVYzcGN2OS1tNFl3Ny1pWmJZajIwZw?oc=5"
-    },
-    {
-      "title": "한화 강백호, 부상 딛고 1군 복귀…두산 손아섭은 2군행",
-      "source": "뉴시스",
-      "published": "Fri, 31 Jul 2026 08:17:19 GMT",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TTW5Ic2RsNklSalRmR0YtdWlXYXdSdmo3X3cwQXZDQkctSmdaNDl0d1dvWkx1Y1UzTlRnX1RfU3pDanRSMHV0TXF4bVdtVjYzMjdLMG5IVFRHc2lrb3lRdE5HZWJNY3hwNW5UYm9YSndyaW90ZVF4adIBeEFVX3lxTE1TTW5Ic2RsNklSalRmR0YtdWlXYXdSdmo3X3cwQXZDQkctSmdaNDl0d1dvWkx1Y1UzTlRnX1RfU3pDanRSMHV0TXF4bVdtVjYzMjdLMG5IVFRHc2lrb3lRdE5HZWJNY3hwNW5UYm9YSndyaW90ZVF4aQ?oc=5"
-    },
-    {
-      "title": "[사진]역투하는 한화 선발 류현진 - 머니투데이",
-      "source": "머니투데이",
-      "published": "Fri, 31 Jul 2026 10:36:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZXNqb09sMnlKQUlTeXVGa3k3OFJydjZJT1ZzZnlzM19fb2VJMUVUWVZhTDFtUVR2aS1OVGZVQUhfWFZhNW9wMThpWjBacldvcndVa2k3Q1hsb0N6T0pkaFdoT045amJaOEpSdW0wa9IBb0FVX3lxTE5oZXNqb09sMnlKQUlTeXVGa3k3OFJydjZJT1ZzZnlzM19fb2VJMUVUWVZhTDFtUVR2aS1OVGZVQUhfWFZhNW9wMThpWjBacldvcndVa2k3Q1hsb0N6T0pkaFdoT045amJaOEpSdW0waw?oc=5"
-    },
-    {
-      "title": "‘5위 추격’ 한화 이렇게 절박하다니…류현진 파트너까지 전격 교체, 허인서와 첫 호흡 왜? “오늘은 쳐야 이기는 날” [오!쎈 수원] - 머니투데이",
-      "source": "머니투데이",
-      "published": "Fri, 31 Jul 2026 09:42:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjeHhRYTh4RVdGd3Y5RXkwNmQ5eFBxVFl4NUhHeVZlRzk2YTFfNGNsMlVVOGtOQ19BVkZJRXplczJsaFowZjVsNGpLXzdVdkRZejNtcHNFZGt5QVk0WlJiVnVkMUtJYVpWa0puUUJUSdIBb0FVX3lxTFBjeHhRYTh4RVdGd3Y5RXkwNmQ5eFBxVFl4NUhHeVZlRzk2YTFfNGNsMlVVOGtOQ19BVkZJRXplczJsaFowZjVsNGpLXzdVdkRZejNtcHNFZGt5QVk0WlJiVnVkMUtJYVpWa0puUUJUSQ?oc=5"
     }
   ],
   "sources": {
