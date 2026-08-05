@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-08-04 12:49 KST",
+  "updated_at": "2026-08-05 12:45 KST",
   "rank_date": "2026-08-02",
   "source_status": {
     "KBO 순위": "2026-08-02 · 10개 구단",
     "팀 타격": "정상",
     "팀 투수": "정상",
-    "경기 일정": "최근 2경기",
-    "주요 타자": "5명",
+    "경기 일정": "최근 3경기",
+    "주요 타자": "4명",
     "주요 투수": "2명",
     "뉴스": "12건"
   },
   "latest_game": {
-    "date": "2026-08-02",
-    "time": "18:00",
-    "opponent": "KT 위즈",
-    "hanwha_score": "1",
-    "opponent_score": "12",
-    "result": "패",
+    "date": "2026-08-04",
+    "time": "18:30",
+    "opponent": "삼성 라이온즈",
+    "hanwha_score": "4",
+    "opponent_score": "1",
+    "result": "승",
     "completed": true,
-    "venue": "수원",
+    "venue": "대구",
     "home_away": "원정",
     "game_url": "",
     "detail": {}
   },
   "recent_games": [
+    {
+      "date": "2026-08-04",
+      "time": "18:30",
+      "opponent": "삼성 라이온즈",
+      "hanwha_score": "4",
+      "opponent_score": "1",
+      "result": "승",
+      "completed": true,
+      "venue": "대구",
+      "home_away": "원정",
+      "game_url": ""
+    },
     {
       "date": "2026-08-02",
       "time": "18:00",
@@ -50,7 +62,7 @@
     }
   ],
   "next_game": {
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "time": "18:30",
     "opponent": "삼성 라이온즈",
     "hanwha_score": "",
@@ -79,27 +91,27 @@
       "rank": "2",
       "team": "삼성 라이온즈",
       "short_team": "삼성",
-      "games": "99",
+      "games": "100",
       "wins": "59",
-      "losses": "38",
+      "losses": "39",
       "draws": "2",
-      "pct": "0.608",
-      "gb": "1",
+      "pct": "0.602",
+      "gb": "1.5",
       "last10": "5승0무5패",
-      "streak": "1패"
+      "streak": "2패"
     },
     {
       "rank": "3",
       "team": "LG 트윈스",
       "short_team": "LG",
-      "games": "100",
+      "games": "101",
       "wins": "55",
-      "losses": "44",
+      "losses": "45",
       "draws": "1",
-      "pct": "0.556",
-      "gb": "6",
+      "pct": "0.550",
+      "gb": "6.5",
       "last10": "3승1무6패",
-      "streak": "2패"
+      "streak": "3패"
     },
     {
       "rank": "4",
@@ -131,14 +143,14 @@
       "rank": "6",
       "team": "한화 이글스",
       "short_team": "한화",
-      "games": "98",
-      "wins": "46",
+      "games": "99",
+      "wins": "47",
       "losses": "49",
       "draws": "3",
-      "pct": "0.484",
-      "gb": "13",
+      "pct": "0.490",
+      "gb": "12.5",
       "last10": "5승0무5패",
-      "streak": "3패"
+      "streak": "1승"
     },
     {
       "rank": "7",
@@ -157,99 +169,99 @@
       "rank": "8",
       "team": "롯데 자이언츠",
       "short_team": "롯데",
-      "games": "99",
-      "wins": "43",
+      "games": "100",
+      "wins": "44",
       "losses": "54",
       "draws": "2",
-      "pct": "0.443",
-      "gb": "17",
-      "last10": "3승0무7패",
-      "streak": "1승"
+      "pct": "0.449",
+      "gb": "16.5",
+      "last10": "4승0무6패",
+      "streak": "2승"
     },
     {
       "rank": "9",
       "team": "SSG 랜더스",
       "short_team": "SSG",
-      "games": "102",
-      "wins": "38",
+      "games": "103",
+      "wins": "39",
       "losses": "60",
       "draws": "4",
-      "pct": "0.388",
-      "gb": "22.5",
+      "pct": "0.394",
+      "gb": "22",
       "last10": "5승1무4패",
-      "streak": "1패"
+      "streak": "1승"
     },
     {
       "rank": "10",
       "team": "키움 히어로즈",
       "short_team": "키움",
-      "games": "103",
+      "games": "104",
       "wins": "38",
-      "losses": "63",
+      "losses": "64",
       "draws": "2",
-      "pct": "0.376",
-      "gb": "24",
+      "pct": "0.373",
+      "gb": "24.5",
       "last10": "5승0무5패",
-      "streak": "1승"
+      "streak": "1패"
     }
   ],
   "hanwha_standing": {
     "rank": "6",
     "team": "한화 이글스",
     "short_team": "한화",
-    "games": "98",
-    "wins": "46",
+    "games": "99",
+    "wins": "47",
     "losses": "49",
     "draws": "3",
-    "pct": "0.484",
-    "gb": "13",
+    "pct": "0.490",
+    "gb": "12.5",
     "last10": "5승0무5패",
-    "streak": "3패"
+    "streak": "1승"
   },
   "team_hitting": {
     "rank": "3",
     "team": "한화 이글스",
-    "avg": "0.278",
-    "games": "98",
-    "pa": "3981",
-    "ab": "3468",
-    "runs": "574",
-    "hits": "964",
-    "doubles": "158",
+    "avg": "0.277",
+    "games": "99",
+    "pa": "4019",
+    "ab": "3498",
+    "runs": "578",
+    "hits": "969",
+    "doubles": "159",
     "triples": "15",
     "hr": "114",
-    "tb": "1494",
-    "rbi": "541"
+    "tb": "1500",
+    "rbi": "543"
   },
   "team_pitching": {
     "rank": "6",
     "team": "한화 이글스",
-    "era": "4.80",
-    "games": "98",
-    "wins": "46",
+    "era": "4.74",
+    "games": "99",
+    "wins": "47",
     "losses": "49",
     "saves": "14",
-    "holds": "47",
-    "wpct": "0.484",
-    "innings": "872 2/3",
-    "hits": "938",
+    "holds": "48",
+    "wpct": "0.490",
+    "innings": "881 2/3",
+    "hits": "942",
     "hr": "86",
-    "walks": "388",
+    "walks": "391",
     "hbp": "70",
-    "strikeouts": "706",
-    "runs": "522",
-    "earned_runs": "465",
-    "whip": "1.52"
+    "strikeouts": "716",
+    "runs": "523",
+    "earned_runs": "464",
+    "whip": "1.51"
   },
   "hitters": [
     {
-      "rank": "11",
+      "rank": "13",
       "name": "강백호",
       "team": "한화 이글스",
-      "avg": "0.310",
-      "games": "85",
-      "pa": "370",
-      "ab": "326",
+      "avg": "0.307",
+      "games": "86",
+      "pa": "374",
+      "ab": "329",
       "runs": "53",
       "hits": "101",
       "doubles": "18",
@@ -259,62 +271,46 @@
       "rbi": "86"
     },
     {
-      "rank": "18",
+      "rank": "19",
       "name": "페라자",
       "team": "한화 이글스",
       "avg": "0.296",
-      "games": "98",
-      "pa": "434",
-      "ab": "358",
+      "games": "99",
+      "pa": "439",
+      "ab": "361",
       "runs": "77",
-      "hits": "106",
+      "hits": "107",
       "doubles": "24",
       "triples": "1",
       "hr": "18",
-      "tb": "186",
-      "rbi": "60"
+      "tb": "187",
+      "rbi": "61"
     },
     {
-      "rank": "20",
+      "rank": "22",
       "name": "문현빈",
       "team": "한화 이글스",
-      "avg": "0.296",
-      "games": "96",
-      "pa": "433",
-      "ab": "379",
+      "avg": "0.293",
+      "games": "97",
+      "pa": "437",
+      "ab": "382",
       "runs": "60",
       "hits": "112",
       "doubles": "24",
       "triples": "4",
       "hr": "10",
       "tb": "174",
-      "rbi": "55"
-    },
-    {
-      "rank": "27",
-      "name": "김태연",
-      "team": "한화 이글스",
-      "avg": "0.286",
-      "games": "85",
-      "pa": "304",
-      "ab": "259",
-      "runs": "43",
-      "hits": "74",
-      "doubles": "12",
-      "triples": "2",
-      "hr": "8",
-      "tb": "114",
-      "rbi": "27"
+      "rbi": "56"
     },
     {
       "rank": "28",
       "name": "이도윤",
       "team": "한화 이글스",
-      "avg": "0.285",
-      "games": "87",
-      "pa": "303",
-      "ab": "277",
-      "runs": "34",
+      "avg": "0.282",
+      "games": "88",
+      "pa": "307",
+      "ab": "280",
+      "runs": "35",
       "hits": "79",
       "doubles": "14",
       "triples": "3",
@@ -325,7 +321,28 @@
   ],
   "pitchers": [
     {
-      "rank": "7",
+      "rank": "5",
+      "name": "왕옌청",
+      "team": "한화 이글스",
+      "era": "3.34",
+      "games": "21",
+      "wins": "10",
+      "losses": "4",
+      "saves": "0",
+      "holds": "0",
+      "wpct": "0.714",
+      "innings": "110 1/3",
+      "hits": "111",
+      "hr": "10",
+      "walks": "45",
+      "hbp": "6",
+      "strikeouts": "88",
+      "runs": "55",
+      "earned_runs": "41",
+      "whip": "1.41"
+    },
+    {
+      "rank": "8",
       "name": "류현진",
       "team": "한화 이글스",
       "era": "3.41",
@@ -344,41 +361,26 @@
       "runs": "45",
       "earned_runs": "38",
       "whip": "1.16"
-    },
-    {
-      "rank": "8",
-      "name": "왕옌청",
-      "team": "한화 이글스",
-      "era": "3.54",
-      "games": "20",
-      "wins": "9",
-      "losses": "4",
-      "saves": "0",
-      "holds": "0",
-      "wpct": "0.692",
-      "innings": "104 1/3",
-      "hits": "108",
-      "hr": "10",
-      "walks": "43",
-      "hbp": "6",
-      "strikeouts": "81",
-      "runs": "55",
-      "earned_runs": "41",
-      "whip": "1.45"
     }
   ],
   "news": [
-    {
-      "title": "한화이글스, 롯데 자이언츠에 3-9 패..오늘 왕옌청 출격",
-      "source": "티제이비",
-      "published": "Wed, 29 Jul 2026 00:10:08 GMT",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KbnFTd1djaFp2NmkwZkx5ZUlVWUtzX212NTZDSk1UOW1xMmFUdEJUVk90N0p4Ukd5Unc2N0s2aGlVMngxQ0ZCS3RqVFN5aFl4U0FpNTZjWkc5MWVzc1ZKZlp2OEZSUEN2ZUE?oc=5"
-    },
     {
       "title": "한화, '이글스TV' 명장면 담은 '시즌 한정판' 카카오 이모티콘 출시 \"12월 31일까지 판매 예정\" - 머니투데이",
       "source": "머니투데이",
       "published": "Mon, 03 Aug 2026 02:21:32 GMT",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hZlVJWWdmcm9mWGNxSC1RNklLWUE2ZWRuczNCRi1vT2ZGOFg4dEhMYnZWYUhwY3FsVHdwTWVsbUtqMWNTWlREOXNCR0xZWjRIejI3b29UM1F5WENBZWgtMlNJSEotMjRFdmRqc094NNIBb0FVX3lxTE5hZlVJWWdmcm9mWGNxSC1RNklLWUE2ZWRuczNCRi1vT2ZGOFg4dEhMYnZWYUhwY3FsVHdwTWVsbUtqMWNTWlREOXNCR0xZWjRIejI3b29UM1F5WENBZWgtMlNJSEotMjRFdmRqc094NA?oc=5"
+    },
+    {
+      "title": "[불꽃이글스]\"채은성도 오고 강백호도 왔는데\"..더위 먹은 한화 타선",
+      "source": "티제이비",
+      "published": "Mon, 03 Aug 2026 10:05:36 GMT",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkRkR5NzNIUzhtdkN5ZjRpQjhoRy14cTJNcDlGNTNGN2tDVUt3WkZKd2Jyb1dfd180aTZFRXU4Ni1qa2tHM1pweS11UmFXWGJvYWxfSE5OR2N3MWFTSkxQcjdEamtIX0tpX2RuXzJxMA?oc=5"
+    },
+    {
+      "title": "한화 왕옌청, 삼성전 6이닝 7탈삼진 무실점으로 10승 달성(종합)",
+      "source": "연합뉴스",
+      "published": "Tue, 04 Aug 2026 13:26:56 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtcFhqcUVMVVJYdXA2eTZEU0JEVzB0WjlJTi1fTkNKRi1iSmdJWEdSV0EtNHc5UWMycmZOZ1V0VzZqWFI4MmczOW9LR3RUVk9ZUHNSU2pGazJvbWNXZ0ZHVNIBYEFVX3lxTFBtcFhqcUVMVVJYdXA2eTZEU0JEVzB0WjlJTi1fTkNKRi1iSmdJWEdSV0EtNHc5UWMycmZOZ1V0VzZqWFI4MmczOW9LR3RUVk9ZUHNSU2pGazJvbWNXZ0ZHVA?oc=5"
     },
     {
       "title": "한화 팬들 주목! ‘이글스TV’ 명장면 이모티콘 출시…“시즌 한정판 올해까지만 판매” - 조선비즈",
@@ -399,46 +401,40 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tcmltVkJRYllTdDhpU0Y0bHdONGJ4Rk9qLXJZemtmX0lkYTdoek5kWmRrall0blNuTUloLVYzbUlpdjMxNklNaXRIZzdQOGVuVFZwRF9hbHRaNnRSd2g1YkNIdEx1TkhWbkdQSQ?oc=5"
     },
     {
+      "title": "`5회 흔들린 양창섭` 삼성 라이온즈, 한화 이글스에 고배",
+      "source": "매일신문",
+      "published": "Tue, 04 Aug 2026 12:32:50 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNNWw4TDBiemdWZnQwZzl0d3AxSG1GRFlUbi1MMVQyNURBWUFfSlNZVHlQNnJCZXI2MmJaSDR3VEpMNDZLUTNnYUtxU3p5RkJMaGgzcTVONG00Szd5M080bXFR?oc=5"
+    },
+    {
+      "title": "10. 한화이글스 팬입니다.",
+      "source": "brunch.co.kr",
+      "published": "Mon, 03 Aug 2026 02:44:05 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xY05rLURlelJNY0FmSFlRUmFrV3JkYlVQZHRfVEJlS1lqbmZjUWFRUlY5aG9zVUlMQ0cwblFUbWRTVEpHRnc?oc=5"
+    },
+    {
       "title": "이글스 TV 명장면이 카톡 이모티콘으로... 한화, '이글스의 일상 2026' 이모티콘 출시",
       "source": "더게이트",
       "published": "Mon, 03 Aug 2026 03:39:13 GMT",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DN0p1VklPSWtkbFp6YUN2am92eXhlM2R1azNmeDZBV1daRXk4UEV6MVlQVzhlMzdKeDNoRzE2c2Y0TkhUVWk5dS1wV0pWZ0steVhRVVRfeXRReU8waGdyMTBCMmJDX3BiZXBPONIBbEFVX3lxTE9DN0p1VklPSWtkbFp6YUN2am92eXhlM2R1azNmeDZBV1daRXk4UEV6MVlQVzhlMzdKeDNoRzE2c2Y0TkhUVWk5dS1wV0pWZ0steVhRVVRfeXRReU8waGdyMTBCMmJDX3BiZXBPOA?oc=5"
     },
     {
+      "title": "'싹쓸이패 위기' 한화, 2일 '페문강노채허' 전날과 동일 라인업으로 고영표 상대 [오!쎈 수원]",
+      "source": "v.daum.net",
+      "published": "Sun, 02 Aug 2026 07:51:38 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZmFNTWstMzB1c3kzRTR3a3dEdEVJM0RNaHRZWHBZYUlaUnRaaHJ6MUhmTVFwdzI5dDFZWFd4d3RNUk5qU2VLNzFwZDRFYzg?oc=5"
+    },
+    {
+      "title": "한화, '이글스TV' 명장면 담은 '시즌 한정판' 카카오 이모티콘 출시 \"12월 31일까지 판매 예정\"",
+      "source": "네이트",
+      "published": "Mon, 03 Aug 2026 02:22:00 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oOTVQSTJHMHVUVmhBTGkyekg1QnhjaUlEZnpUWGVGRmpZZVFCdmYwempxblJtZzhoVXNTdEhpeThTX0RscnJ0eC1DYjMtWS1idVFfdFZrUWxEQ05GTHJMa2xwbHN2Nk9Nemc?oc=5"
+    },
+    {
       "title": "\"김태연 잘생겼어\" 이모티콘으로…'이글스TV' 카톡 이모티콘 출시",
       "source": "대전일보",
       "published": "Mon, 03 Aug 2026 02:33:00 GMT",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uV2RkcUtRczdwbTgwelNWMGdjbERreWRYWEQ4dzljY1pQVW11dzNMU18wWXVfdGd6RnB3UWpSRjhueG42a3RXeFVlTjZuWXU2VG1Lem56eF83bm1zLUR3TDBYMk1wdlROZXBtd3F6VQ?oc=5"
-    },
-    {
-      "title": "[불꽃이글스]\"채은성도 오고 강백호도 왔는데\"..더위 먹은 한화 타선",
-      "source": "티제이비",
-      "published": "Mon, 03 Aug 2026 10:05:36 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkRkR5NzNIUzhtdkN5ZjRpQjhoRy14cTJNcDlGNTNGN2tDVUt3WkZKd2Jyb1dfd180aTZFRXU4Ni1qa2tHM1pweS11UmFXWGJvYWxfSE5OR2N3MWFTSkxQcjdEamtIX0tpX2RuXzJxMA?oc=5"
-    },
-    {
-      "title": "'이틀 연속 한 이닝 7득점' KT, 한화 12-0 완파→6연승 선두 질주! 고영표 7이닝 QS+ 김현수 역대 4번째 4000루타 [수원 현장리뷰] - 머니투데이",
-      "source": "머니투데이",
-      "published": "Sun, 02 Aug 2026 12:17:51 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTE5FUTNQeXJReEo1eFhBVUYwZTVLR1F2aVNjdzFzdGhLZFI2MTktU1RUR05wWFpqRXQyUkJVczl3YWxpZ2ExMVZGT0NpWlc4UkdZUDNpU2s5SzhDaVhIanVRRzZ4TFhHV0JvZDlaVdIBb0FVX3lxTFBlTE5FUTNQeXJReEo1eFhBVUYwZTVLR1F2aVNjdzFzdGhLZFI2MTktU1RUR05wWFpqRXQyUkJVczl3YWxpZ2ExMVZGT0NpWlc4UkdZUDNpU2s5SzhDaVhIanVRRzZ4TFhHV0JvZDlaVQ?oc=5"
-    },
-    {
-      "title": "[포토] '우리 6연승 가자!' 고영표 - 머니투데이",
-      "source": "머니투데이",
-      "published": "Sun, 02 Aug 2026 09:21:59 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zM3lhczA2RHhEVkJSaC13RTVqZHNhWEdmaDNjMTdycGFsSmt4UGlMU0thOWpTTllXd3RMOG1ESVBNRTE4NjBkTGVZRDV3d0IwWkFmTTVfVDFid2did2NzbXczeWlhazU4Rk8wUUQ0UdIBb0FVX3lxTE4zM3lhczA2RHhEVkJSaC13RTVqZHNhWEdmaDNjMTdycGFsSmt4UGlMU0thOWpTTllXd3RMOG1ESVBNRTE4NjBkTGVZRDV3d0IwWkFmTTVfVDFid2did2NzbXczeWlhazU4Rk8wUUQ0UQ?oc=5"
-    },
-    {
-      "title": "'싹쓸이패 위기' 한화, 2일 '페문강노채허' 전날과 동일 라인업으로 고영표 상대 [오!쎈 수원] - 머니투데이",
-      "source": "머니투데이",
-      "published": "Sun, 02 Aug 2026 07:51:00 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fTjNqMlNDWHNXUm9GN21IN25KZjlZbkRwdlNPX0hsRmZvUVBTSmxkamtVc1FqM19mRUZkN21YT2RLVUJFUzUzcEtFeXVFcjZyX3Vvd1ZiTHFESVctbFBYSjJfc2h0bTVRRUwycGpvTdIBb0FVX3lxTE5fTjNqMlNDWHNXUm9GN21IN25KZjlZbkRwdlNPX0hsRmZvUVBTSmxkamtVc1FqM19mRUZkN21YT2RLVUJFUzUzcEtFeXVFcjZyX3Vvd1ZiTHFESVctbFBYSjJfc2h0bTVRRUwycGpvTQ?oc=5"
-    },
-    {
-      "title": "\"전성기 생각나는 완벽투\" 6연승 선두 질주 이끈 에이스에 KBO 투수 레전드 출신 사령탑 극찬 나왔다 - 머니투데이",
-      "source": "머니투데이",
-      "published": "Sun, 02 Aug 2026 22:50:29 GMT",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQQmxTRWdYV1VRRWlsMU1WZlJkUlVfbUhwc0pGZElHVlZYaUZIbW4yQ1YyVWpaZ0V5NDVQS0J3c0VOd3RFM21ScGJpeDNkY290MDBOOEN4RkQyTzhDRkVuREpEbV9SeTRZMUJjOG4wRdIBb0FVX3lxTFBQQmxTRWdYV1VRRWlsMU1WZlJkUlVfbUhwc0pGZElHVlZYaUZIbW4yQ1YyVWpaZ0V5NDVQS0J3c0VOd3RFM21ScGJpeDNkY290MDBOOEN4RkQyTzhDRkVuREpEbV9SeTRZMUJjOG4wRQ?oc=5"
     }
   ],
   "sources": {
